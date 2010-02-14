@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
+  <head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+    
+    <meta name="Generator" content="iWeb 3.0.1" />
+    <meta name="iWeb-Build" content="local-build-20100214" />
+    <meta http-equiv="X-UA-Compatible" content="IE=EmulateIE7" />
+    <meta name="viewport" content="width=700" />
+    <title>TaskSieve</title>
+    <link rel="stylesheet" type="text/css" media="screen,print" href="TaskSieve_files/TaskSieve.css" />
+    <!--[if lt IE 8]><link rel='stylesheet' type='text/css' media='screen,print' href='TaskSieve_files/TaskSieveIE.css'/><![endif]-->
+    <!--[if gte IE 8]><link rel='stylesheet' type='text/css' media='screen,print' href='Media/IE8.css'/><![endif]-->
+    <script type="text/javascript" src="Scripts/iWebSite.js"></script>
+    <script type="text/javascript" src="Scripts/Widgets/SharedResources/WidgetCommon.js"></script>
+    <script type="text/javascript" src="Scripts/Widgets/Navbar/navbar.js"></script>
+    <script type="text/javascript" src="Scripts/iWebImage.js"></script>
+    <script type="text/javascript" src="TaskSieve_files/TaskSieve.js"></script>
+  </head>
+  <body style="background: rgb(255, 255, 255) url(TaskSieve_files/tile_watercolor_background.jpg) repeat scroll top left; margin: 0pt; " onload="onPageLoad();" onunload="onPageUnload();">
+    <div style="text-align: center; ">
+      <div style="margin-bottom: 0px; margin-left: auto; margin-right: auto; margin-top: 0px; overflow: hidden; position: relative; word-wrap: break-word;  text-align: left; width: 700px; " id="body_content">
+        <div style="background: transparent url(TaskSieve_files/watercooloer_bkgnd.jpg) repeat scroll top left; width: 700px; ">
+          <div style="height: 95px; margin-left: 0px; position: relative; width: 700px; z-index: 0; " id="header_layer">
+            <div style="height: 0px; line-height: 0px; " class="bumper"> </div>
+            <div style="height: 90px; width: 700px;  height: 90px; left: 0px; position: absolute; top: 0px; width: 700px; z-index: 1; " class="tinyText style_SkipStroke">
+              <img src="TaskSieve_files/navgb_blue-1.jpg" alt="" style="border: none; height: 90px; width: 700px; " />
+            </div>
+            
+
+
+            <div style="height: 89px; width: 630px;  height: 89px; left: 35px; position: absolute; top: 6px; width: 630px; z-index: 1; " class="tinyText style_SkipStrokeSkipFillSkipOpacity">
+              <div style="position: relative; width: 630px; ">
+                <img src="TaskSieve_files/shapeimage_1.png" alt="" style="height: 41px; left: 0px; margin-left: 9px; margin-top: 10px; position: absolute; top: 0px; width: 139px; " />
+              </div>
+            </div>
+          </div>
+          <div style="margin-left: 0px; position: relative; width: 700px; z-index: 10; " id="nav_layer">
+            <div style="height: 0px; line-height: 0px; " class="bumper"> </div>
+            <div style="height: 1px; line-height: 1px; " class="tinyText"> </div>
+            <div class="com-apple-iweb-widget-navbar flowDefining" id="widget0" style="margin-left: 0px; margin-top: -1px; opacity: 1.00; position: relative; width: 700px; z-index: 1; ">
+    
+              <div id="widget0-navbar" class="navbar">
+
+      
+                <div id="widget0-bg" class="navbar-bg">
+
+        
+                  <ul id="widget0-navbar-list" class="navbar-list">
+ <li></li> 
+</ul>
+                  
+      
+</div>
+                
+    
+</div>
+            </div>
+            <script type="text/javascript"><!--//--><![CDATA[//><!--
+new NavBar('widget0', 'Scripts/Widgets/Navbar', 'Scripts/Widgets/SharedResources', '.', {"current-page-GUID": "978FB045-4DF9-4732-A8BF-6D9EACBABBED", "path-to-root": "", "isCollectionPage": "NO", "navbar-css": ".navbar {\n\tfont-family: 'Hoefler Text', 'Times New Roman', serif;\n\tfont-size: .9em;\n\tcolor: #819D56;\n\tline-height: 20px;\n\ttext-align: center;\n}\n\n.navbar-bg {\n\n}\n\n.navbar-bg ul {\n\tlist-style: none;\n\tmargin: 0px;\n\tpadding: 0px;\n}\n\n\nli {\n\tlist-style-type: none;\n\tdisplay: inline;\n\tpadding: 0 30px 0 0px;\n\n}\n\n\nli a {\n\ttext-decoration: none;\n\tcolor: #5CA2BA;\n}\n\nli a:visted {\n\ttext-decoration: none;\n\tcolor: #5CA2BA;\n}\n\nli a:hover\r{\r\n \tcolor: #414141;\r}\n\n\nli.current-page a\r{\r\t color: #7B7B7A;\r\r}\n"});
+//--><!]]></script>
+            <div style="clear: both; height: 0px; line-height: 0px; " class="spacer"> </div>
+          </div>
+          <div style="margin-left: 0px; position: relative; width: 700px; z-index: 5; " id="body_layer">
+            <div style="height: 0px; line-height: 0px; " class="bumper"> </div>
+            <div id="id1" style="height: 951px; left: 35px; position: absolute; top: 23px; width: 630px; z-index: 1; " class="style_SkipStroke_2 shape-with-text">
+              <div class="text-content graphic_shape_layout_style_default_External_630_951" style="padding: 0px; ">
+                <div class="graphic_shape_layout_style_default">
+                  <p style="padding-top: 0pt; " class="paragraph_style">In this system, a special type of the user model is supported called as a task model. It is aimed at supporting information analysts who are required to solve a specific task. A very short term user model is constructed to model each different user task and personalization is made with the task models. A post filtering approach was applied to this purpose. The ad-hoc retrieval results triggered by user queries were re-ordered using the task model so that more relevant documents to the task model should be ranked up in the lists. In terms of the interface, we added a control with which users can control the effects of the query and the task model according to their needs and the context.<br /></p>
+                  <p class="paragraph_style"><br /></p>
+                  <div class="paragraph paragraph_style"><div style="height: 349px; width: 603px;  height: 349px; position: relative; width: 603px; " class="tinyText style_SkipStroke_1 inline-block stroke_0"><img src="TaskSieve_files/droppedImage.png" alt="" style="border: none; height: 350px; width: 604px; " /></div><br /></div>
+                  <p class="paragraph_style_1">TaskSieve Interface<br /></p>
+                  <p class="paragraph_style_1"><br /></p>
+                  <p class="paragraph_style"><span class="style">Published</span> : Ahn, J., Brusilovsky, P., He, D., Grady, J., and Li, Q. (2008) Personalized Web Exploration with Task Models In: Proceedings of the 17th international conference on World Wide Web, WWW '08, Beijing, China, April 21-25, 2008. <a href="http://www2008.org/papers/pdf/p1-ahnA.pdf" title="http://www2008.org/papers/pdf/p1-ahnA.pdf" class="style_1">[PDF]</a><br /></p>
+                  <p class="paragraph_style"><br /></p>
+                  <div class="paragraph paragraph_style_2"><div style="height: 251px; width: 335px;  height: 251px; position: relative; width: 335px; " class="tinyText style_SkipStroke_1 inline-block stroke_0"><img src="TaskSieve_files/detail.php.jpg" alt="" style="border: none; height: 251px; width: 335px; " /></div><br /></div>
+                  <p style="padding-bottom: 0pt; " class="paragraph_style_1">This study was presented at WWW 2008 in Beijing</p>
+                </div>
+                <div style="clear: both; height: 0px; line-height: 0px; " class="tinyText"> </div>
+              </div>
+            </div>
+            <div style="height: 974px; line-height: 974px; " class="spacer"> </div>
+          </div>
+          <div style="height: 100px; margin-left: 0px; position: relative; width: 700px; z-index: 15; " id="footer_layer">
+            <div style="height: 0px; line-height: 0px; " class="bumper"> </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </body>
+</html>
+
+
