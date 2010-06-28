@@ -67,7 +67,7 @@ new NavBar('widget0', 'Scripts/Widgets/Navbar', 'Scripts/Widgets/SharedResources
               <div class="text-content style_External_397_240" style="padding: 0px; ">
                 <div class="style">
                   <p style="padding-top: 0pt; " class="paragraph_style">Hi. I am Jae-wook Ahn, a Ph.D. candidate at the School of Information Sciences, University of Pittsburgh. <br /></p>
-                  <p class="paragraph_style">I am doing researches on personalized information access, information retrieval, human-computer interaction, and information visualization. <br /></p>
+                  <p class="paragraph_style">I am doing researches on <span class="style_1">personalized/social information retrieval</span>, <span class="style_1">human-computer interaction</span>, and <span class="style_1">information visualization</span>. <br /></p>
                   <p style="padding-bottom: 0pt; " class="paragraph_style">Please see the research and publication pages and my <a class="class1" title="http://www.sis.pitt.edu/~jahn/jaewook_ahn_cv.pdf" href="http://www.sis.pitt.edu/~jahn/jaewook_ahn_cv.pdf">CV</a> for more details.</p>
                 </div>
                 <div style="height: 67px; line-height: 67px; " class="tinyText"> </div>
@@ -115,6 +115,18 @@ new NavBar('widget0', 'Scripts/Widgets/Navbar', 'Scripts/Widgets/SharedResources
                 </div>
               </div>
             </div>
+            
+
+
+            <div style="height: 110px; width: 157px;  height: 110px; left: 21px; position: absolute; top: 452px; width: 157px; z-index: 1; " class="tinyText style_SkipStroke_3 stroke_1">
+              <img src="Home_files/AdaptiveVibe_part.jpg" alt="" style="border: none; height: 110px; width: 158px; " />
+            </div>
+            
+
+
+            <div style="height: 108px; width: 174px;  height: 108px; left: 51px; position: absolute; top: 531px; width: 174px; z-index: 1; " class="tinyText style_SkipStroke_3 stroke_1">
+              <img src="Home_files/NameSieve-NEpanel.jpg" alt="" style="border: none; height: 108px; width: 175px; " />
+            </div>
             <div style="height: 0px; line-height: 0px; " class="spacer"> </div>
           </div>
           <div style="height: 100px; margin-left: 0px; position: relative; width: 700px; z-index: 15; " id="footer_layer">
@@ -123,7 +135,7 @@ new NavBar('widget0', 'Scripts/Widgets/Navbar', 'Scripts/Widgets/SharedResources
         </div>
       </div>
     </div>
-  <script src="http://www.google-analytics.com/urchin.js" type="text/javascript"></script><script type="text/javascript">_uacct = "UA-4780107-1";urchinTracker();</script></body>
+  </body>
 </html>
 
 
