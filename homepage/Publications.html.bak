@@ -64,17 +64,17 @@ new NavBar('widget0', 'Scripts/Widgets/Navbar', 'Scripts/Widgets/SharedResources
           </div>
           <div style="margin-left: 0px; position: relative; width: 700px; z-index: 5; " id="body_layer">
             <div style="height: 0px; line-height: 0px; " class="bumper"> </div>
-            <div id="id1" style="height: 2173px; left: 35px; position: absolute; top: 23px; width: 630px; z-index: 1; " class="style_SkipStroke_1 shape-with-text">
-              <div class="text-content graphic_shape_layout_style_default_External_630_2173" style="padding: 0px; ">
+            <div id="id1" style="height: 2256px; left: 35px; position: absolute; top: 23px; width: 630px; z-index: 1; " class="style_SkipStroke_1 shape-with-text">
+              <div class="text-content graphic_shape_layout_style_default_External_630_2256" style="padding: 0px; ">
                 <div class="graphic_shape_layout_style_default">
                   <p style="padding-top: 0pt; " class="paragraph_style"><span class="style">Papers in Refereed Journals</span> <br /></p>
                   <p class="paragraph_style_1">2010<br /></p>
                   <ol>
                     <li style="line-height: 17px; margin-top: -1px; padding-left: 20px; text-indent: -20px; " class="full-width">
-                      <p style="text-indent: -20px; " class="paragraph_style_2"><span style="position: relative; top: -2px; " class="Bullet"><img src="Publications_files/Hardcover_bullet_black.png" alt="Bullet" style="height: 7px; width: 7px; " /></span><span style="width: 13px; " class="inline-block"></span>Ahn, J., Brusilovsky, P., Grady, J., and He, D. (2010, in press). <span class="style_1">Semantic Annotation Based Exploratory Search for Information Analysts</span>. <span class="style_2">Information Processing and Management, Special Issue on Semantic Annotations in Information Retrieval.</span><br /></p>
+                      <p style="text-indent: -20px; " class="paragraph_style_2"><span style="position: relative; top: -2px; " class="Bullet"><img src="Publications_files/Hardcover_bullet_black.png" alt="Bullet" style="height: 7px; width: 7px; " /></span><span style="width: 13px; " class="inline-block"></span>Ahn, J., Brusilovsky, P., Grady, J., and He, D. (2010). <span class="style_1">Semantic Annotation Based Exploratory Search for Information Analysts</span>. <span class="style_2">Information Processing and Management, Special Issue on Semantic Annotations in Information Retrieval, </span>46(4):383-402.<br /></p>
                     </li>
                     <li style="line-height: 17px; margin-top: -1px; padding-left: 20px; text-indent: -20px; " class="full-width">
-                      <p style="text-indent: -20px; " class="paragraph_style_2"><span style="position: relative; top: -2px; " class="Bullet"><img src="Publications_files/Hardcover_bullet_black.png" alt="Bullet" style="height: 7px; width: 7px; " /></span><span style="width: 13px; " class="inline-block"></span>Brusilovsky, P., Ahn, J., and Rasmussen, E. (2010, accepted with revisions). <span class="style_1">Teaching Information Retrieval with Web-based interactive Visualization</span>. <span class="style_2">Journal of Education for Library and Information Science.</span> <br /></p>
+                      <p style="text-indent: -20px; " class="paragraph_style_2"><span style="position: relative; top: -2px; " class="Bullet"><img src="Publications_files/Hardcover_bullet_black.png" alt="Bullet" style="height: 7px; width: 7px; " /></span><span style="width: 13px; " class="inline-block"></span>Brusilovsky, P., Ahn, J., and Rasmussen, E. (2010, in press). <span class="style_1">Teaching Information Retrieval with Web-based interactive Visualization</span>. <span class="style_2">Journal of Education for Library and Information Science.</span> <br /></p>
                     </li>
                   </ol>
                   <p class="paragraph_style_3"><span style="line-height: 22px; " class="style_3">2009</span><br /></p>
@@ -100,13 +100,13 @@ new NavBar('widget0', 'Scripts/Widgets/Navbar', 'Scripts/Widgets/SharedResources
                   <p class="paragraph_style_1">2010<br /></p>
                   <ol>
                     <li style="line-height: 17px; margin-top: -1px; padding-left: 20px; text-indent: -20px; " class="full-width">
-                      <p style="text-indent: -20px; " class="paragraph_style_2"><span style="position: relative; top: -2px; " class="Bullet"><img src="Publications_files/Hardcover_bullet_black.png" alt="Bullet" style="height: 7px; width: 7px; " /></span><span style="width: 13px; " class="inline-block"></span>Ahn, J., and Brusilovsky, P. (2010, under review) <span class="style_1">Can Concept-based User Modeling Improve Adaptive Visualization?</span> <span class="style_2">User Modeling, Adaptation, and Personalization (UMAP 2010). Low 20% acceptance rate.</span><br /></p>
+                      <p style="text-indent: -20px; " class="paragraph_style_2"><span style="position: relative; top: -2px; " class="Bullet"><img src="Publications_files/Hardcover_bullet_black.png" alt="Bullet" style="height: 7px; width: 7px; " /></span><span style="width: 13px; " class="inline-block"></span>Ahn, J., and Brusilovsky, P. (2010) <span class="style_1">Can Concept-based User Modeling Improve Adaptive Visualization?</span> In: <span class="style_2">Proceedings of 18th International Conference on User Modeling, Adaptation, and Personalization (UMAP 2010), June 22-24, Springer, pp. 4-15. (23% acceptance rate).</span><br /></p>
                     </li>
                     <li style="line-height: 17px; margin-top: -1px; padding-left: 20px; text-indent: -20px; " class="full-width">
-                      <p style="text-indent: -20px; " class="paragraph_style_2"><span style="position: relative; top: -2px; " class="Bullet"><img src="Publications_files/Hardcover_bullet_black.png" alt="Bullet" style="height: 7px; width: 7px; " /></span><span style="width: 13px; " class="inline-block"></span>Brusilovsky, P., Lin, Y., Ahn, J., He, D., and Real, W. (2010, under review) <span class="style_1">Exploratory Search of Museum Archives with Named Entity-Based Faceted Browsing</span>. Advanced Visual Interfaces International Working Conference (AVI 2010).<br /></p>
+                      <p style="text-indent: -20px; " class="paragraph_style_2"><span style="position: relative; top: -2px; " class="Bullet"><img src="Publications_files/Hardcover_bullet_black.png" alt="Bullet" style="height: 7px; width: 7px; " /></span><span style="width: 13px; " class="inline-block"></span>Ahn, J., and Amatriain, X. (2010) <span class="style_1">Towards Fully Distributed and Privacy-preserving Recommendations via Expert Collaborative Filtering and RESTful Linked Data</span>. Accepted by <span class="style_2">WI-IAT 2010 </span>Conference. <br /></p>
                     </li>
                     <li style="line-height: 17px; margin-top: -1px; padding-left: 20px; text-indent: -20px; " class="full-width">
-                      <p style="text-indent: -20px; " class="paragraph_style_2"><span style="position: relative; top: -2px; " class="Bullet"><img src="Publications_files/Hardcover_bullet_black.png" alt="Bullet" style="height: 7px; width: 7px; " /></span><span style="width: 13px; " class="inline-block"></span>Ahn, J., and Amatriain, X. (2010, under review) <span class="style_1">Towards Fully Distributed and Privacy-preserving Recommendations via Expert Collaborative Filtering and RESTful Linked Data</span>. 19th international conference on World Wide Web, WWW '10 Developers Track.<br /></p>
+                      <p style="text-indent: -20px; " class="paragraph_style_2"><span style="position: relative; top: -2px; " class="Bullet"><img src="Publications_files/Hardcover_bullet_black.png" alt="Bullet" style="height: 7px; width: 7px; " /></span><span style="width: 13px; " class="inline-block"></span>Brusilovsky, P., Lin, Y., Ahn, J., He, D., and Real, W. (2010, under review) <span class="style_1">Exploratory Search of Museum Archives with Named Entity-Based Faceted Browsing</span>. Submitted to ASIS&amp;T 2010 Annual Meeting.<br /></p>
                     </li>
                   </ol>
                   <p class="paragraph_style_1">2008<br /></p>
@@ -186,6 +186,12 @@ new NavBar('widget0', 'Scripts/Widgets/Navbar', 'Scripts/Widgets/SharedResources
                   </ol>
                   <p class="paragraph_style_4"><br /></p>
                   <p class="paragraph_style_5">Posters<br /></p>
+                  <p class="paragraph_style_1">2010<br /></p>
+                  <ol>
+                    <li style="line-height: 14px; margin-top: -1px; padding-left: 20px; text-indent: -20px; " class="full-width">
+                      <p style="text-indent: -20px; " class="paragraph_style_8"><span style="position: relative; top: -2px; " class="Bullet"><img src="Publications_files/Hardcover_bullet_black.png" alt="Bullet" style="height: 7px; width: 7px; " /></span><span style="width: 13px; " class="inline-block"></span><span style="line-height: 17px; " class="style_4">Ahn, J., and Brusilovsky, P. (2010) </span><span style="line-height: 17px; " class="style_5">What You See Is What You Search: Adaptive Visual Search Framework for the Web</span><span style="line-height: 17px; " class="style_4">. In: Proceedings of the 19th international conference on World Wide Web, WWW '10, Raleigh, NC, April 26-30, 2010.</span><br /></p>
+                    </li>
+                  </ol>
                   <p class="paragraph_style_1">2009<br /></p>
                   <ol>
                     <li style="line-height: 14px; margin-top: -1px; padding-left: 20px; text-indent: -20px; " class="full-width">
@@ -204,7 +210,7 @@ new NavBar('widget0', 'Scripts/Widgets/Navbar', 'Scripts/Widgets/SharedResources
                 </div>
               </div>
             </div>
-            <div style="height: 2196px; line-height: 2196px; " class="spacer"> </div>
+            <div style="height: 2279px; line-height: 2279px; " class="spacer"> </div>
           </div>
           <div style="height: 100px; margin-left: 0px; position: relative; width: 700px; z-index: 15; " id="footer_layer">
             <div style="height: 0px; line-height: 0px; " class="bumper"> </div>
