@@ -120,9 +120,6 @@ new NavBar('widget0', '../Scripts/Widgets/Navbar', '../Scripts/Widgets/SharedRes
                         
                             
 </div>
-                      
-                             
-                        
 </div>
                     
 
@@ -221,9 +218,6 @@ new HeaderControls('widget5', '../Scripts/Widgets/HeaderControls', '../Scripts/W
                   
     
 </div>
-                
-     
-
 </div>
             </div>
             <script type="text/javascript"><!--//--><![CDATA[//><!--
@@ -236,10 +230,10 @@ new FooterControls('widget6', '../Scripts/Widgets/FooterControls', '../Scripts/W
                 </div>
               </div>
             </div>
-            <div style="height: 480px; line-height: 480px; " class="spacer"> </div>
+            <div style="height: 480px; line-height: 480px; " class="spacer"></div>
           </div>
           <div style="height: 100px; margin-left: 0px; position: relative; width: 700px; z-index: 15; " id="footer_layer">
-            <div style="height: 0px; line-height: 0px; " class="bumper"> </div>
+            <div style="height: 0px; line-height: 0px; " class="bumper"></div>
           </div>
         </div>
       </div>

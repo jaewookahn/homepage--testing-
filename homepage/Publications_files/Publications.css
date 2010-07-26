@@ -81,11 +81,6 @@
     font-weight: 700;
     line-height: 17px;
 }
-.style_2 {
-    color: rgb(148, 17, 0);
-    line-height: 17px;
-    opacity: 1.00;
-}
 .paragraph_style_3 {
     color: rgb(95, 95, 95);
     font-family: 'HoeflerText-Black', 'Hoefler Text', 'Times New Roman', serif;
@@ -108,7 +103,7 @@
     text-indent: 0px;
     text-transform: none;
 }
-.style_3 {
+.style_2 {
     font-family: 'HoeflerText-Regular', 'Hoefler Text', 'Times New Roman', serif;
     font-size: 18px;
     font-stretch: normal;
@@ -159,6 +154,11 @@
     text-decoration: underline;
     text-indent: 0px;
     text-transform: none;
+}
+.style_3 {
+    color: rgb(148, 17, 0);
+    line-height: 17px;
+    opacity: 1.00;
 }
 .paragraph_style_6 {
     color: rgb(95, 95, 95);
