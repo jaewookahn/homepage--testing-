@@ -27,11 +27,11 @@
     background: transparent;
     opacity: 1.00;
 }
-.style_SkipStrokeSkipFillSkipOpacity {
-}
 .style_SkipStroke {
     background: transparent;
     opacity: 1.00;
+}
+.style_SkipStrokeSkipFillSkipOpacity {
 }
 .style_SkipStroke_1 {
     background: transparent;
@@ -132,11 +132,11 @@
 .graphic_shape_layout_style_default {
     padding: 4px;
 }
-.image_cluster_layout_style_default_External_241_34 {
-    position: relative;
-}
 .image_cluster_layout_style_default {
     padding: 0px;
+}
+.image_cluster_layout_style_default_External_0_0 {
+    position: relative;
 }
 a {
     color: rgb(206, 174, 0);

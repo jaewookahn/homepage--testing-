@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
  <id>urn:iweb:8B0C6FE0-620B-4D51-B5AA-1FC5A20377BB</id>
  <title>Page list Atom feed</title>
- <updated>2010-07-26T14:26:16-04:00</updated>
+ <updated>2010-07-26T14:58:32-04:00</updated>
  <link rel="self" href="feed.xml"/>
  <generator>iWeb</generator>
  <author>
@@ -14,7 +14,7 @@
   <title xmlns="urn:iweb:">Home</title>
   <in-navbar xmlns="urn:iweb:">BE941C82-9FA5-464F-A5FD-AB0BE1CA7311</in-navbar>
   <link rel="alternate" href="Home.html"/>
-  <updated>2010-07-26T14:26:16.001-04:00</updated>
+  <updated>2010-07-26T14:58:32.001-04:00</updated>
   <content>Home</content>
  </entry>
  <entry>
@@ -23,7 +23,7 @@
   <title xmlns="urn:iweb:">Bio</title>
   <in-navbar xmlns="urn:iweb:">CAA218B0-E399-40B4-AF39-01487000271A</in-navbar>
   <link rel="alternate" href="Bio.html"/>
-  <updated>2010-07-26T14:26:16.002-04:00</updated>
+  <updated>2010-07-26T14:58:32.002-04:00</updated>
   <content>Bio</content>
  </entry>
  <entry>
@@ -32,7 +32,7 @@
   <title xmlns="urn:iweb:">Research</title>
   <in-navbar xmlns="urn:iweb:">6B73BC63-D936-460C-AFED-D546C34F4005</in-navbar>
   <link rel="alternate" href="Research.html"/>
-  <updated>2010-07-26T14:26:16.003-04:00</updated>
+  <updated>2010-07-26T14:58:32.003-04:00</updated>
   <content>Research</content>
  </entry>
  <entry>
@@ -41,7 +41,7 @@
   <title xmlns="urn:iweb:">Publications</title>
   <in-navbar xmlns="urn:iweb:">6ED00D92-5DB8-492B-B7B4-F862FB24088B</in-navbar>
   <link rel="alternate" href="Publications.html"/>
-  <updated>2010-07-26T14:26:16.004-04:00</updated>
+  <updated>2010-07-26T14:58:32.004-04:00</updated>
   <content>Publications</content>
  </entry>
  <entry>
@@ -50,7 +50,7 @@
   <title xmlns="urn:iweb:">My Albums</title>
   <in-navbar xmlns="urn:iweb:">B4E9EAE2-1B08-4E7C-A712-7ACD959BBECE</in-navbar>
   <link rel="alternate" href="My_Albums/My_Albums.html"/>
-  <updated>2010-07-26T14:26:16.005-04:00</updated>
+  <updated>2010-07-26T14:58:32.005-04:00</updated>
   <content>My Albums</content>
  </entry>
 </feed>

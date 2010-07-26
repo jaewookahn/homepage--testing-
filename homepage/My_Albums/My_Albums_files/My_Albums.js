@@ -1,4 +1,4 @@
-// Created by iWeb 3.0.1 local-build-20100628
+// Created by iWeb 3.0.1 local-build-20100726
 
 function createMediaStream_id1()
 {return IWCreateMediaCollection("http://www.sis.pitt.edu/%7Ejahn/homepage/My_Albums/My_Albums_files/rss.xml",true,255,["No photos yet","%d photo","%d photos"],["","%d clip","%d clips"]);}
