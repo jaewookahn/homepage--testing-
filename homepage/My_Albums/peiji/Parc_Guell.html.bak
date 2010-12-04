@@ -10,8 +10,8 @@
     <meta http-equiv="X-UA-Compatible" content="IE=EmulateIE7" />
     <meta name="viewport" content="width=700" />
     <title>Our Photos</title>
-    <link rel="stylesheet" type="text/css" media="screen,print" href="Honeymoon_files/Honeymoon.css" />
-    <!--[if lt IE 8]><link rel='stylesheet' type='text/css' media='screen,print' href='Honeymoon_files/HoneymoonIE.css'/><![endif]-->
+    <link rel="stylesheet" type="text/css" media="screen,print" href="Parc_Guell_files/Parc_Guell.css" />
+    <!--[if lt IE 8]><link rel='stylesheet' type='text/css' media='screen,print' href='Parc_Guell_files/Parc_GuellIE.css'/><![endif]-->
     <!--[if gte IE 8]><link rel='stylesheet' type='text/css' media='screen,print' href='../../Media/IE8.css'/><![endif]-->
     <!-- No code to add to head -->
     <style type="text/css"><!--
@@ -25,7 +25,7 @@
     <style type="text/css"><!--
     @import "../../Scripts/Widgets/FooterControls/FooterControls.css";
 --></style>
-    <link rel="alternate" type="application/rss+xml" title="RSS" href="http://www.cs.umd.edu/%7Ejahn/homepage/My_Albums/peiji/Honeymoon_files/rss.xml" />
+    <link rel="alternate" type="application/rss+xml" title="RSS" href="http://www.cs.umd.edu/%7Ejahn/homepage/My_Albums/peiji/Parc_Guell_files/rss.xml" />
     <script type="text/javascript" src="../../Scripts/iWebSite.js"></script>
     <script type="text/javascript" src="../../Scripts/Widgets/SharedResources/WidgetCommon.js"></script>
     <script type="text/javascript" src="../../Scripts/Widgets/Navbar/navbar.js"></script>
@@ -37,23 +37,23 @@
     <script type="text/javascript" src="../../Scripts/Widgets/DetailView/localizedStrings.js"></script>
     <script type="text/javascript" src="../../Scripts/Widgets/DetailView/DetailView.js"></script>
     <script type="text/javascript" src="../../Scripts/Widgets/FooterControls/FooterControls.js"></script>
-    <script type="text/javascript" src="Honeymoon_files/Honeymoon.js"></script>
+    <script type="text/javascript" src="Parc_Guell_files/Parc_Guell.js"></script>
   </head>
-  <body style="background: rgb(255, 255, 255) url(Honeymoon_files/tile_watercolor_background.jpg) repeat scroll top left; margin: 0pt; " onload="onPageLoad();" onunload="onPageUnload();">
+  <body style="background: rgb(255, 255, 255) url(Parc_Guell_files/tile_watercolor_background.jpg) repeat scroll top left; margin: 0pt; " onload="onPageLoad();" onunload="onPageUnload();">
     <div style="text-align: center; ">
       <div style="margin-bottom: 0px; margin-left: auto; margin-right: auto; margin-top: 0px; overflow: hidden; position: relative; word-wrap: break-word;  text-align: left; width: 700px; " id="body_content">
-        <div style="background: transparent url(Honeymoon_files/photos_bkgnd.jpg) repeat scroll top left; width: 700px; ">
+        <div style="background: transparent url(Parc_Guell_files/photos_bkgnd.jpg) repeat scroll top left; width: 700px; ">
           <div style="height: 95px; margin-left: 0px; position: relative; width: 700px; z-index: 0; " id="header_layer">
             <div style="height: 0px; line-height: 0px; " class="bumper"> </div>
             <div style="height: 90px; width: 700px;  height: 90px; left: -2px; position: absolute; top: -3px; width: 700px; z-index: 1; " class="tinyText style_SkipStroke">
-              <img src="Honeymoon_files/navbg_gold.jpg" alt="" style="border: none; height: 90px; width: 700px; " />
+              <img src="Parc_Guell_files/navbg_gold.jpg" alt="" style="border: none; height: 90px; width: 700px; " />
             </div>
             
 
 
             <div style="height: 89px; width: 630px;  height: 89px; left: 35px; position: absolute; top: 6px; width: 630px; z-index: 1; " class="tinyText style_SkipStrokeSkipFillSkipOpacity">
               <div style="position: relative; width: 630px; ">
-                <img src="Honeymoon_files/shapeimage_1.png" alt="Our Photos" style="height: 47px; left: 0px; margin-left: 11px; margin-top: 4px; position: absolute; top: 0px; width: 163px; " />
+                <img src="Parc_Guell_files/shapeimage_1.png" alt="Our Photos" style="height: 47px; left: 0px; margin-left: 11px; margin-top: 4px; position: absolute; top: 0px; width: 163px; " />
               </div>
             </div>
           </div>
@@ -208,9 +208,9 @@ new NavBar('widget0', '../../Scripts/Widgets/Navbar', '../../Scripts/Widgets/Sha
 </div>
             </div>
             <script type="text/javascript"><!--//--><![CDATA[//><!--
-new HeaderControls('widget1', '../../Scripts/Widgets/HeaderControls', '../../Scripts/Widgets/SharedResources', '../..', {"indexURL": "..\/My_Albums.html", "entryCount": "0", "showSubscribe": true, "gridID": "id1", "showBackToIndex": true, "showSlideshow": true, "feedURL": "http:\/\/www.cs.umd.edu\/%7Ejahn\/homepage\/My_Albums\/peiji\/Honeymoon_files\/rss.xml", "mediaIndex": false, "canvas controls": {"canvas_transport-left-N": "..\/..\/Media\/canvas_transport-left-N_28.png", "canvas_transport-right-D": "..\/..\/Media\/canvas_transport-right-D_28.png", "canvas_thumbs_off-S": "..\/..\/Media\/canvas_thumbs_off-S_28.png", "canvas_back": "..\/..\/Media\/canvas_back_28.png", "canvas_thumbs_off-N": "..\/..\/Media\/canvas_thumbs_off-N_28.png", "canvas_transport-right-N": "..\/..\/Media\/canvas_transport-right-N_28.png", "canvas_arrow-left-D": "..\/..\/Media\/canvas_arrow-left-D_28.png", "canvas_arrow-right": "..\/..\/Media\/canvas_arrow-right_28.png", "canvas_play": "..\/..\/Media\/canvas_play_28.png", "canvas_arrow-left": "..\/..\/Media\/canvas_arrow-left_28.png", "canvas_download": "..\/..\/Media\/canvas_download_28.png", "canvas_thumbs_on-S": "..\/..\/Media\/canvas_thumbs_on-S_28.png", "canvas_thumbs_on-N": "..\/..\/Media\/canvas_thumbs_on-N_28.png", "canvas_arrow-right-D": "..\/..\/Media\/canvas_arrow-right-D_28.png", "canvas_transport-left-D": "..\/..\/Media\/canvas_transport-left-D_28.png", "canvas_add": "..\/..\/Media\/canvas_add_28.png", "canvas_subscribe": "..\/..\/Media\/canvas_subscribe_28.png"}, "entriesPerPage": 99});
+new HeaderControls('widget1', '../../Scripts/Widgets/HeaderControls', '../../Scripts/Widgets/SharedResources', '../..', {"indexURL": "..\/My_Albums.html", "entryCount": "0", "showSubscribe": true, "gridID": "id1", "showBackToIndex": true, "showSlideshow": true, "feedURL": "http:\/\/www.cs.umd.edu\/%7Ejahn\/homepage\/My_Albums\/peiji\/Parc_Guell_files\/rss.xml", "mediaIndex": false, "canvas controls": {"canvas_transport-left-N": "..\/..\/Media\/canvas_transport-left-N_28.png", "canvas_transport-right-D": "..\/..\/Media\/canvas_transport-right-D_28.png", "canvas_thumbs_off-S": "..\/..\/Media\/canvas_thumbs_off-S_28.png", "canvas_back": "..\/..\/Media\/canvas_back_28.png", "canvas_thumbs_off-N": "..\/..\/Media\/canvas_thumbs_off-N_28.png", "canvas_transport-right-N": "..\/..\/Media\/canvas_transport-right-N_28.png", "canvas_arrow-left-D": "..\/..\/Media\/canvas_arrow-left-D_28.png", "canvas_arrow-right": "..\/..\/Media\/canvas_arrow-right_28.png", "canvas_play": "..\/..\/Media\/canvas_play_28.png", "canvas_arrow-left": "..\/..\/Media\/canvas_arrow-left_28.png", "canvas_download": "..\/..\/Media\/canvas_download_28.png", "canvas_thumbs_on-S": "..\/..\/Media\/canvas_thumbs_on-S_28.png", "canvas_thumbs_on-N": "..\/..\/Media\/canvas_thumbs_on-N_28.png", "canvas_arrow-right-D": "..\/..\/Media\/canvas_arrow-right-D_28.png", "canvas_transport-left-D": "..\/..\/Media\/canvas_transport-left-D_28.png", "canvas_add": "..\/..\/Media\/canvas_add_28.png", "canvas_subscribe": "..\/..\/Media\/canvas_subscribe_28.png"}, "entriesPerPage": 99});
 //--><!]]></script>
-            <div class="com-apple-iweb-widget-detailview" id="widget2" style="height: 1517px; left: 54px; position: absolute; top: 113px; width: 591px; z-index: 1; ">
+            <div class="com-apple-iweb-widget-detailview" id="widget2" style="height: 2678px; left: 54px; position: absolute; top: 113px; width: 591px; z-index: 1; ">
               <div id="widget2-thumbnails_back" class="thumbnail_arrows thumbnails_back">
 
     <img class="canvas transport-left-D" alt="back" src="" />
@@ -407,7 +407,7 @@ new FooterControls('widget3', '../../Scripts/Widgets/FooterControls', '../../Scr
             <div style="margin-left: 35px; margin-top: 55px; position: relative; width: 630px; z-index: 1; " class="style_SkipStroke_1 shape-with-text flowDefining">
               <div class="text-content style_External_630_46" style="padding: 0px; ">
                 <div class="style">
-                  <p style="padding-bottom: 0pt; padding-top: 0pt; " class="Body">My honeymoon in Paradise Island, Bahamas.</p>
+                  <p style="padding-bottom: 0pt; padding-top: 0pt; " class="Body">Some photos taken at the famous Parc Guell, in Barcelona, Spain.</p>
                 </div>
                 <div style="height: 19px; line-height: 19px; " class="tinyText"> </div>
               </div>
@@ -418,7 +418,7 @@ new FooterControls('widget3', '../../Scripts/Widgets/FooterControls', '../../Scr
             <div id="id2" style="height: 37px; left: 35px; position: absolute; top: 19px; width: 630px; z-index: 1; " class="style_SkipStroke_2 shape-with-text">
               <div class="text-content graphic_shape_layout_style_default_External_630_37" style="padding: 0px; ">
                 <div class="graphic_shape_layout_style_default">
-                  <p style="padding-bottom: 0pt; padding-top: 0pt; " class="Title">Honeymoon</p>
+                  <p style="padding-bottom: 0pt; padding-top: 0pt; " class="Title">Parc Guell</p>
                 </div>
               </div>
             </div>
@@ -430,7 +430,7 @@ new FooterControls('widget3', '../../Scripts/Widgets/FooterControls', '../../Scr
         </div>
       </div>
     </div>
-  <script src="http://www.google-analytics.com/urchin.js" type="text/javascript"></script><script type="text/javascript">_uacct = "UA-4780107-4";urchinTracker();</script></body>
+  </body>
 </html>
 
 
