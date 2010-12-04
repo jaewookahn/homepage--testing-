@@ -1,2 +1,2 @@
 
-(function(){var strings={};strings['Back to Album']='Back to Album';strings['Download']='Download';strings['Previous']='Previous';strings['Next']='Next';strings['Play Slideshow']='Play Slideshow';RegisterWidgetStrings("com-apple-iweb-widget-detailview",strings);})();
+(function(){var strings={};strings['Back to Album']='앨범으로 돌아가기';strings['Download']='다운로드';strings['Previous']='이전';strings['Next']='다음';strings['Play Slideshow']='슬라이드쇼 재생';RegisterWidgetStrings("com-apple-iweb-widget-detailview",strings);})();

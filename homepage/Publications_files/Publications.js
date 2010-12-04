@@ -1,4 +1,4 @@
-// Created by iWeb 3.0.1 local-build-20100726
+// Created by iWeb 3.0.2 local-build-20101204
 
 setTransparentGifURL('Media/transparent.gif');function hostedOnDM()
 {return false;}

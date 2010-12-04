@@ -1,2 +1,2 @@
 
-(function(){var strings={};strings['Subscribe']='Subscribe';strings['Back to Index']='Back to Index';strings['Add Photo']='Add Photo';strings['Play Slideshow']='Play Slideshow';RegisterWidgetStrings("com-apple-iweb-widget-headercontrols",strings);})();
+(function(){var strings={};strings['Subscribe']='구독';strings['Back to Index']='인덱스로 돌아가기';strings['Add Photo']='사진 추가';strings['Play Slideshow']='슬라이드쇼 재생';RegisterWidgetStrings("com-apple-iweb-widget-headercontrols",strings);})();
