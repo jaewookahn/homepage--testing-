@@ -5,8 +5,8 @@
 <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="ko" lang="ko">
   <head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
     
-    <meta name="Generator" content="iWeb 3.0.2" />
-    <meta name="iWeb-Build" content="local-build-20101204" />
+    <meta name="Generator" content="iWeb 3.0.4" />
+    <meta name="iWeb-Build" content="local-build-20120112" />
     <meta http-equiv="X-UA-Compatible" content="IE=EmulateIE7" />
     <meta name="viewport" content="width=700" />
     <title>About Me</title>
@@ -65,25 +65,25 @@ new NavBar('widget0', 'Scripts/Widgets/Navbar', 'Scripts/Widgets/SharedResources
           </div>
           <div style="margin-left: 0px; position: relative; width: 700px; z-index: 5; " id="body_layer">
             <div style="height: 0px; line-height: 0px; " class="bumper"> </div>
-            <div id="id1" style="height: 437px; left: 35px; position: absolute; top: 53px; width: 205px; z-index: 1; " class="style_SkipStroke_1 shape-with-text">
-              <div class="text-content graphic_textbox_layout_style_default_External_205_437" style="padding: 0px; ">
+            <div id="id1" style="height: 437px; left: 23px; position: absolute; top: 51px; width: 224px; z-index: 1; " class="style_SkipStroke_1 shape-with-text">
+              <div class="text-content graphic_textbox_layout_style_default_External_224_437" style="padding: 0px; ">
                 <div class="graphic_textbox_layout_style_default">
-                  <p style="padding-top: 0pt; " class="Heading_2">About Myself<br /></p>
-                  <div class="paragraph Rules"><div style="height: 1px; width: 182px;  height: 1px; left: 1px; position: relative; top: 1px; width: 182px; " class="tinyText inline-block"><div style="position: relative; width: 182px; "><img src="Bio_files/shapeimage_2.png" alt="" style="height: 1px; left: 0px; position: absolute; top: 0px; width: 182px; " /></div></div><br /></div>
-                  <p class="Sidebar_Title"><span class="style">Name: </span>Jae-wook Ahn<br /></p>
-                  <p class="Sidebar_Title"><span class="style">Birthday:</span> July 13th, 1972<br /></p>
-                  <p class="Sidebar_Title"><span class="style">Birthplace:</span> Seoul, Korea<br /></p>
-                  <p class="paragraph_style"><span class="style_1">Education: </span><span class="style_2">Ph.D. in Information Science<br /></span></p>
-                  <p class="paragraph_style"><span class="style_1">Employer:</span><span class="style_2"> University of Maryland<br /></span></p>
-                  <p class="Heading_2">My Contact<br /></p>
-                  <div class="paragraph Rules"><div style="height: 1px; width: 182px;  height: 1px; left: 1px; position: relative; top: 1px; width: 182px; " class="tinyText inline-block"><div style="position: relative; width: 182px; "><img src="Bio_files/shapeimage_3.png" alt="" style="height: 1px; left: 0px; position: absolute; top: 0px; width: 182px; " /></div></div><br /></div>
-                  <p class="paragraph_style"><span class="style_1">E-mail:</span><span class="style_2"> </span><a title="mailto:jahn@cs.umd.edu" href="mailto:jahn@cs.umd.edu" class="style_2">jahn@cs.umd.edu</a><br /></p>
-                  <p class="paragraph_style"><span class="style_1">Mailing Address<br /></span></p>
-                  <p class="paragraph_style"><span class="style_2">HCIL<br />University of Maryland<br />2117 Hornbake Bldg, South Wing College Park, MD 20742, USA<br /></span></p>
-                  <p class="paragraph_style"><span class="style_1">Phone:</span><span class="style_2"> +1 (412) 735-6148</span><br /></p>
-                  <p class="Heading_2">Curriculum Vitae<br /></p>
-                  <div class="paragraph Rules"><div style="height: 1px; width: 182px;  height: 1px; left: 1px; position: relative; top: 1px; width: 182px; " class="tinyText inline-block"><div style="position: relative; width: 182px; "><img src="Bio_files/shapeimage_4.png" alt="" style="height: 1px; left: 0px; position: absolute; top: 0px; width: 182px; " /></div></div><br /></div>
-                  <p style="padding-bottom: 0pt; " class="Links"><a title="http://www.sis.pitt.edu/~jahn/jaewook_ahn_cv.pdf" href="http://www.sis.pitt.edu/~jahn/jaewook_ahn_cv.pdf">PDF download</a></p>
+                  <p style="padding-top: 0pt; " class="paragraph_style">About Myself<br /></p>
+                  <div class="paragraph paragraph_style_1"><div style="height: 1px; width: 182px;  height: 1px; left: 1px; position: relative; top: 1px; width: 182px; " class="tinyText inline-block"><div style="position: relative; width: 182px; "><img src="Bio_files/shapeimage_2.png" alt="" style="height: 1px; left: 0px; position: absolute; top: 0px; width: 182px; " /></div></div><br /></div>
+                  <p class="paragraph_style_2"><span class="style">Name: </span>Jae-wook Ahn<br /></p>
+                  <p class="paragraph_style_2"><span class="style">Birthday:</span> July 13th, 1972<br /></p>
+                  <p class="paragraph_style_2"><span class="style">Birthplace:</span> Seoul, Korea<br /></p>
+                  <p class="paragraph_style_3"><span class="style_1">Education: </span><span class="style_2">Ph.D. in Information Science<br /></span></p>
+                  <p class="paragraph_style_3"><span class="style_1">Employer:</span><span class="style_2"> University of Maryland<br /></span></p>
+                  <p class="paragraph_style">My Contact<br /></p>
+                  <div class="paragraph paragraph_style_1"><div style="height: 1px; width: 182px;  height: 1px; left: 1px; position: relative; top: 1px; width: 182px; " class="tinyText inline-block"><div style="position: relative; width: 182px; "><img src="Bio_files/shapeimage_3.png" alt="" style="height: 1px; left: 0px; position: absolute; top: 0px; width: 182px; " /></div></div><br /></div>
+                  <p class="paragraph_style_3"><span class="style_1">E-mail:</span><span class="style_2"> </span><a title="mailto:jahn@cs.umd.edu" href="mailto:jahn@cs.umd.edu" class="style_2">jahn@cs.umd.edu</a><br /></p>
+                  <p class="paragraph_style_3"><span class="style_1">Mailing Address<br /></span></p>
+                  <p class="paragraph_style_3"><span class="style_2">HCIL<br />University of Maryland<br />2117L Hornbake Bldg, South Wing College Park, MD 20742, USA<br /></span></p>
+                  <p class="paragraph_style_3"><span class="style_1">Phone:</span><span class="style_2"> +1 (412) 735-6148</span><br /></p>
+                  <p class="paragraph_style">Curriculum Vitae<br /></p>
+                  <div class="paragraph paragraph_style_1"><div style="height: 1px; width: 182px;  height: 1px; left: 1px; position: relative; top: 1px; width: 182px; " class="tinyText inline-block"><div style="position: relative; width: 182px; "><img src="Bio_files/shapeimage_4.png" alt="" style="height: 1px; left: 0px; position: absolute; top: 0px; width: 182px; " /></div></div><br /></div>
+                  <p style="padding-bottom: 0pt; " class="paragraph_style_4"><a title="http://www.cs.umd.edu/~jahn/jaewook_ahn_cv.pdf" href="http://www.cs.umd.edu/~jahn/jaewook_ahn_cv.pdf">PDF download</a></p>
                 </div>
                 <div style="clear: both; height: 0px; line-height: 0px; " class="tinyText"> </div>
               </div>
@@ -97,21 +97,90 @@ new NavBar('widget0', 'Scripts/Widgets/Navbar', 'Scripts/Widgets/SharedResources
               </div>
             </div>
             <div style="height: 1px; line-height: 1px; " class="tinyText"> </div>
-            <div style="margin-left: 261px; margin-top: 409px; position: relative; width: 402px; z-index: 1; " class="style_SkipStroke_2 shape-with-text flowDefining">
-              <div class="text-content style_External_402_179" style="padding: 0px; ">
+            <div style="margin-left: 261px; margin-top: 380px; position: relative; width: 435px; z-index: 1; " class="style_SkipStroke_2 shape-with-text flowDefining">
+              <div class="text-content style_External_435_955" style="padding: 0px; ">
                 <div class="style_3">
+                  <p style="padding-top: 0pt; " class="paragraph_style_5">Education<br /></p>
                   <ol>
                     <li style="line-height: 19px; padding-left: 16px; text-indent: -16px; " class="full-width">
-                      <p style="padding-top: 0pt; text-indent: -16px; " class="paragraph_style_1"><span style="font-size: 14px; " class="구분점">•</span><span style="width: 8px; " class="inline-block"></span>Ph.D. in Information Science, Department of Information Science and Telecommunications, <a title="http://www.sis.pitt.edu/" href="http://www.sis.pitt.edu/">School of Information Sciences</a>, University of Pittsburgh (2004~2010) (Advisor: <a title="http://www.sis.pitt.edu/~peterb" href="http://www.sis.pitt.edu/~peterb" class="style_4">Dr. Peter Brusilovsky</a>)<span style="line-height: 19px; " class="style_5"><br /></span></p>
+                      <p style="text-indent: -16px; " class="paragraph_style_6"><span style="font-size: 14px; " class="구분점">•</span><span style="width: 11px; " class="inline-block"></span>Ph.D. in Information Science, Department of Information Science and Telecommunications, <a title="http://www.sis.pitt.edu/" href="http://www.sis.pitt.edu/">School of Information Sciences</a>, University of Pittsburgh (2004~2010) (Advisor: <a title="http://www.sis.pitt.edu/~peterb" href="http://www.sis.pitt.edu/~peterb" class="style_4">Dr. Peter Brusilovsky</a>)<span style="line-height: 19px; " class="style_5"><br /></span></p>
                     </li>
                     <li style="line-height: 19px; padding-left: 16px; text-indent: -16px; " class="full-width">
-                      <p style="text-indent: -16px; " class="paragraph_style_1"><span style="font-size: 14px; " class="구분점">•</span><span style="width: 8px; " class="inline-block"></span>M.A. in library and Information Science, Department of Library and Information Science, <a title="http://www.yonsei.ac.kr/eng" href="http://www.yonsei.ac.kr/eng" class="style_4">Yonsei Univsersity</a>, Seoul, Korea (2003)<span style="line-height: 19px; " class="style_5"><br /></span></p>
+                      <p style="text-indent: -16px; " class="paragraph_style_6"><span style="font-size: 14px; " class="구분점">•</span><span style="width: 11px; " class="inline-block"></span>M.A. in library and Information Science, Department of Library and Information Science, <a title="http://www.yonsei.ac.kr/eng" href="http://www.yonsei.ac.kr/eng" class="style_4">Yonsei Univsersity</a>, Seoul, Korea (2003)<span style="line-height: 19px; " class="style_5"><br /></span></p>
                     </li>
                     <li style="line-height: 19px; padding-left: 16px; text-indent: -16px; " class="full-width">
-                      <p style="padding-bottom: 0pt; text-indent: -16px; " class="paragraph_style_1"><span style="font-size: 14px; " class="구분점">•</span><span style="width: 8px; " class="inline-block"></span>B.A. in Sociology, Department of Sociology, <a title="http://www.yonsei.ac.kr/eng" href="http://www.yonsei.ac.kr/eng" class="style_4">Yonsei University</a>, Seoul, Korea (1997)</p>
+                      <p style="text-indent: -16px; " class="paragraph_style_6"><span style="font-size: 14px; " class="구분점">•</span><span style="width: 11px; " class="inline-block"></span>B.A. in Sociology, Department of Sociology, <a title="http://www.yonsei.ac.kr/eng" href="http://www.yonsei.ac.kr/eng" class="style_4">Yonsei University</a>, Seoul, Korea (1997)<br /></p>
                     </li>
                   </ol>
+                  <p class="paragraph_style_7"><br /></p>
+                  <p class="paragraph_style_5">Professional Experiences<br /></p>
+                  <ol>
+                    <li style="line-height: 19px; padding-left: 16px; text-indent: -16px; " class="full-width">
+                      <p style="text-indent: -16px; " class="paragraph_style_6"><span style="font-size: 14px; " class="구분점">•</span><span style="width: 11px; " class="inline-block"></span>NSF CRA Postdoctoral Computing Innovation Fellow, HCIL, University of Maryland (Mentor: <a title="http://www.cs.umd.edu/~ben" href="http://www.cs.umd.edu/~ben">Dr. Ben Shneiderman</a>)<br /></p>
+                    </li>
+                    <li style="line-height: 19px; padding-left: 16px; text-indent: -16px; " class="full-width">
+                      <p style="text-indent: -16px; " class="paragraph_style_6"><span style="font-size: 14px; " class="구분점">•</span><span style="width: 11px; " class="inline-block"></span><a title="http://www.tid.es" href="http://www.tid.es" class="style_6">Telefonica Research</a>, Barcelona, Spain - summer intern (2009)<br /></p>
+                    </li>
+                    <li style="line-height: 19px; padding-left: 16px; text-indent: -16px; " class="full-width">
+                      <p style="text-indent: -16px; " class="paragraph_style_6"><span style="font-size: 14px; " class="구분점">•</span><span style="width: 11px; " class="inline-block"></span><span class="style_6">University of Pittsburgh</span> - Graduate Student Researcher/Graduate Student Assistant (2004~present)<br /></p>
+                    </li>
+                    <li style="line-height: 19px; padding-left: 16px; text-indent: -16px; " class="full-width">
+                      <p style="text-indent: -16px; " class="paragraph_style_6"><span style="font-size: 14px; " class="구분점">•</span><span style="width: 11px; " class="inline-block"></span><span class="style_6">University of Pittsburgh Medical Center (UPMC)</span> MR Research Center - Web programmer (2005)<br /></p>
+                    </li>
+                    <li style="line-height: 19px; padding-left: 16px; text-indent: -16px; " class="full-width">
+                      <p style="text-indent: -16px; " class="paragraph_style_6"><span style="font-size: 14px; " class="구분점">•</span><span style="width: 11px; " class="inline-block"></span><span class="style_6">Department of Library and Information Science</span>, Yonsei University - Server administrator (2000~2003)<br /></p>
+                    </li>
+                    <li style="line-height: 19px; padding-left: 16px; text-indent: -16px; " class="full-width">
+                      <p style="text-indent: -16px; " class="paragraph_style_6"><span style="font-size: 14px; " class="구분점">•</span><span style="width: 11px; " class="inline-block"></span><span class="style_6">Yonsei University Extension</span> - Internet Expert course instructor (1999)<br /></p>
+                    </li>
+                    <li style="line-height: 19px; padding-left: 16px; text-indent: -16px; " class="full-width">
+                      <p style="text-indent: -16px; " class="paragraph_style_6"><span style="font-size: 14px; " class="구분점">•</span><span style="width: 11px; " class="inline-block"></span><a title="http://www.lgicorp.com/eng/main_eng.jsp" href="http://www.lgicorp.com/eng/main_eng.jsp" class="style_6">LG International Corp</a>. - Web programmer (1998~1999)<br /></p>
+                    </li>
+                  </ol>
+                  <p class="paragraph_style_7"><br /></p>
+                  <p class="paragraph_style_8">Research Projects<br /></p>
+                  <ol>
+                    <li style="line-height: 19px; padding-left: 16px; text-indent: -16px; " class="full-width">
+                      <p style="text-indent: -16px; " class="paragraph_style_6"><span style="font-size: 14px; " class="구분점">•</span><span style="width: 11px; " class="inline-block"></span>Nation of Neighbors Social Network Visualization (NSF; 2010-)<br /></p>
+                    </li>
+                    <li style="line-height: 19px; padding-left: 16px; text-indent: -16px; " class="full-width">
+                      <p style="text-indent: -16px; " class="paragraph_style_6"><span style="font-size: 14px; " class="구분점">•</span><span style="width: 11px; " class="inline-block"></span>User-centric, Adaptive and Collaborative Information Filtering (NSF <a title="http://amber.exp.sis.pitt.edu/uacf/" href="http://amber.exp.sis.pitt.edu/uacf/">Collaborative Project</a>; 2009)<br /></p>
+                    </li>
+                    <li style="line-height: 19px; padding-left: 16px; text-indent: -16px; " class="full-width">
+                      <p style="text-indent: -16px; " class="paragraph_style_6"><span style="font-size: 14px; " class="구분점">•</span><span style="width: 11px; " class="inline-block"></span>Carnegie Museum of Arts (2008)<br /></p>
+                    </li>
+                    <li style="line-height: 19px; padding-left: 16px; text-indent: -16px; " class="full-width">
+                      <p style="text-indent: -16px; " class="paragraph_style_6"><span style="font-size: 14px; " class="구분점">•</span><span style="width: 11px; " class="inline-block"></span>GALE Program (DARPA; 2005~2007)<br /></p>
+                    </li>
+                    <li style="line-height: 19px; padding-left: 16px; text-indent: -16px; " class="full-width">
+                      <p style="text-indent: -16px; " class="paragraph_style_6"><span style="font-size: 14px; " class="구분점">•</span><span style="width: 11px; " class="inline-block"></span>Personalized Access to Open Corpus Educational Resources through Adaptive Navigation Support and Adaptive Visualization (NSF CAREER; 2004~2010)<br /></p>
+                    </li>
+                  </ol>
+                  <p class="paragraph_style_7"><br /></p>
+                  <p class="paragraph_style_5">Teaching Experiences<br /></p>
+                  <ol>
+                    <li style="line-height: 19px; padding-left: 16px; text-indent: -16px; " class="full-width">
+                      <p style="text-indent: -16px; " class="paragraph_style_6"><span style="font-size: 14px; " class="구분점">•</span><span style="width: 11px; " class="inline-block"></span><span class="style_6">Social Web</span> - co-taught 3 graduate classes (2010 spring, planned)<br /></p>
+                    </li>
+                    <li style="line-height: 19px; padding-left: 16px; text-indent: -16px; " class="full-width">
+                      <p style="text-indent: -16px; " class="paragraph_style_6"><span style="font-size: 14px; " class="구분점">•</span><span style="width: 11px; " class="inline-block"></span><span class="style_6">Adaptive Web</span> - co-taught 3 graduate classes (2009 spring)<br /></p>
+                    </li>
+                    <li style="line-height: 19px; padding-left: 16px; text-indent: -16px; " class="full-width">
+                      <p style="text-indent: -16px; " class="paragraph_style_6"><span style="font-size: 14px; " class="구분점">•</span><span style="width: 11px; " class="inline-block"></span><span class="style_6">Database Systems</span> - co-taught an undergraduate class about client-server database system (2001)<br /></p>
+                    </li>
+                    <li style="line-height: 19px; padding-left: 16px; text-indent: -16px; " class="full-width">
+                      <p style="text-indent: -16px; " class="paragraph_style_6"><span style="font-size: 14px; " class="구분점">•</span><span style="width: 11px; " class="inline-block"></span><span class="style_6">Information Retrieval Systems</span> - taught a summer course for graduate students on how to implement IR systems and to conduct experiments (2000, 2002) <br /></p>
+                    </li>
+                    <li style="line-height: 19px; padding-left: 16px; text-indent: -16px; " class="full-width">
+                      <p style="text-indent: -16px; " class="paragraph_style_6"><span style="font-size: 14px; " class="구분점">•</span><span style="width: 11px; " class="inline-block"></span><span class="style_6">Web-based Information Systems</span> - summer course for library and information science undergraduate students (1999)<br /></p>
+                    </li>
+                    <li style="line-height: 19px; padding-left: 16px; text-indent: -16px; " class="full-width">
+                      <p style="text-indent: -16px; " class="paragraph_style_6"><span style="font-size: 14px; " class="구분점">•</span><span style="width: 11px; " class="inline-block"></span><span class="style_6">Web-based Information Systems</span> - full course at Yonsei Extension (1998)<br /></p>
+                    </li>
+                  </ol>
+                  <p class="paragraph_style_7"><br /></p>
                 </div>
+                <div style="height: 18px; line-height: 18px; " class="tinyText"> </div>
               </div>
             </div>
             
@@ -125,108 +194,25 @@ new NavBar('widget0', 'Scripts/Widgets/Navbar', 'Scripts/Widgets/SharedResources
             
 
 
-            <div id="id2" style="height: 37px; left: 261px; position: absolute; top: 373px; width: 402px; z-index: 1; " class="style_SkipStroke_3 shape-with-text">
-              <div class="text-content graphic_shape_layout_style_default_External_402_37" style="padding: 0px; ">
-                <div class="graphic_shape_layout_style_default">
-                  <p style="padding-bottom: 0pt; padding-top: 0pt; " class="Title">Education</p>
-                </div>
+            <div id="id2" style="height: 37px; left: 250px; position: absolute; top: 1141px; width: 435px; z-index: 1; " class="style_SkipStroke_3 shape-with-text">
+              <div class="text-content graphic_shape_layout_style_default_External_435_37" style="padding: 0px; ">
+                <div class="graphic_shape_layout_style_default"></div>
               </div>
             </div>
             
 
 
-            <div id="id3" style="height: 255px; left: 261px; position: absolute; top: 866px; width: 402px; z-index: 1; " class="style_SkipStroke_2 shape-with-text">
-              <div class="text-content style_External_402_255" style="padding: 0px; ">
-                <div class="style_3">
-                  <ol>
-                    <li style="line-height: 19px; padding-left: 16px; text-indent: -16px; " class="full-width">
-                      <p style="padding-top: 0pt; text-indent: -16px; " class="paragraph_style_1"><span style="font-size: 14px; " class="구분점">•</span><span style="width: 8px; " class="inline-block"></span>NSF CRA Postdoctoral Computing Innovation Fellow, HCIL, University of Maryland<br /></p>
-                    </li>
-                    <li style="line-height: 19px; padding-left: 16px; text-indent: -16px; " class="full-width">
-                      <p style="text-indent: -16px; " class="paragraph_style_1"><span style="font-size: 14px; " class="구분점">•</span><span style="width: 8px; " class="inline-block"></span><a title="http://www.tid.es" href="http://www.tid.es" class="style_6">Telefonica Research</a>, Barcelona, Spain - summer intern (2009)<br /></p>
-                    </li>
-                    <li style="line-height: 19px; padding-left: 16px; text-indent: -16px; " class="full-width">
-                      <p style="text-indent: -16px; " class="paragraph_style_1"><span style="font-size: 14px; " class="구분점">•</span><span style="width: 8px; " class="inline-block"></span><span class="style_6">University of Pittsburgh</span> - Graduate Student Researcher/Graduate Student Assistant (2004~present)<br /></p>
-                    </li>
-                    <li style="line-height: 19px; padding-left: 16px; text-indent: -16px; " class="full-width">
-                      <p style="text-indent: -16px; " class="paragraph_style_1"><span style="font-size: 14px; " class="구분점">•</span><span style="width: 8px; " class="inline-block"></span><span class="style_6">University of Pittsburgh Medical Center (UPMC)</span> MR Research Center - Web programmer (2005)<br /></p>
-                    </li>
-                    <li style="line-height: 19px; padding-left: 16px; text-indent: -16px; " class="full-width">
-                      <p style="text-indent: -16px; " class="paragraph_style_1"><span style="font-size: 14px; " class="구분점">•</span><span style="width: 8px; " class="inline-block"></span><span class="style_6">Department of Library and Information Science</span>, Yonsei University - Server administrator (2000~2003)<br /></p>
-                    </li>
-                    <li style="line-height: 19px; padding-left: 16px; text-indent: -16px; " class="full-width">
-                      <p style="text-indent: -16px; " class="paragraph_style_1"><span style="font-size: 14px; " class="구분점">•</span><span style="width: 8px; " class="inline-block"></span><span class="style_6">Yonsei University Extension</span> - Internet Expert course instructor (1999)<br /></p>
-                    </li>
-                    <li style="line-height: 19px; padding-left: 16px; text-indent: -16px; " class="full-width">
-                      <p style="padding-bottom: 0pt; text-indent: -16px; " class="paragraph_style_1"><span style="font-size: 14px; " class="구분점">•</span><span style="width: 8px; " class="inline-block"></span><a title="http://www.lgicorp.com/eng/main_eng.jsp" href="http://www.lgicorp.com/eng/main_eng.jsp" class="style_6">LG International Corp</a>. - Web programmer (1998~1999)</p>
-                    </li>
-                  </ol>
-                </div>
-              </div>
-            </div>
-            
-
-
-            <div id="id4" style="height: 37px; left: 261px; position: absolute; top: 829px; width: 402px; z-index: 1; " class="style_SkipStroke_3 shape-with-text">
-              <div class="text-content graphic_shape_layout_style_default_External_402_37" style="padding: 0px; ">
-                <div class="graphic_shape_layout_style_default">
-                  <p style="padding-bottom: 0pt; padding-top: 0pt; " class="Title">Professional Experiences</p>
-                </div>
-              </div>
-            </div>
-            
-
-
-            <div id="id5" style="height: 255px; left: 261px; position: absolute; top: 1182px; width: 402px; z-index: 1; " class="style_SkipStroke_2 shape-with-text">
-              <div class="text-content style_External_402_255" style="padding: 0px; ">
-                <div class="style_3">
-                  <ol>
-                    <li style="line-height: 19px; padding-left: 16px; text-indent: -16px; " class="full-width">
-                      <p style="padding-top: 0pt; text-indent: -16px; " class="paragraph_style_1"><span style="font-size: 14px; " class="구분점">•</span><span style="width: 8px; " class="inline-block"></span><span class="style_6">Social Web</span> - co-taught 3 graduate classes (2010 spring, planned)<br /></p>
-                    </li>
-                    <li style="line-height: 19px; padding-left: 16px; text-indent: -16px; " class="full-width">
-                      <p style="text-indent: -16px; " class="paragraph_style_1"><span style="font-size: 14px; " class="구분점">•</span><span style="width: 8px; " class="inline-block"></span><span class="style_6">Adaptive Web</span> - co-taught 3 graduate classes (2009 spring)<br /></p>
-                    </li>
-                    <li style="line-height: 19px; padding-left: 16px; text-indent: -16px; " class="full-width">
-                      <p style="text-indent: -16px; " class="paragraph_style_1"><span style="font-size: 14px; " class="구분점">•</span><span style="width: 8px; " class="inline-block"></span><span class="style_6">Database Systems</span> - co-taught an undergraduate class about client-server database system (2001)<br /></p>
-                    </li>
-                    <li style="line-height: 19px; padding-left: 16px; text-indent: -16px; " class="full-width">
-                      <p style="text-indent: -16px; " class="paragraph_style_1"><span style="font-size: 14px; " class="구분점">•</span><span style="width: 8px; " class="inline-block"></span><span class="style_6">Information Retrieval Systems</span> - taught a summer course for graduate students on how to implement IR systems and to conduct experiments (2000, 2002) <br /></p>
-                    </li>
-                    <li style="line-height: 19px; padding-left: 16px; text-indent: -16px; " class="full-width">
-                      <p style="text-indent: -16px; " class="paragraph_style_1"><span style="font-size: 14px; " class="구분점">•</span><span style="width: 8px; " class="inline-block"></span><span class="style_6">Web-based Information Systems</span> - summer course for library and information science undergraduate students (1999)<br /></p>
-                    </li>
-                    <li style="line-height: 19px; padding-left: 16px; text-indent: -16px; " class="full-width">
-                      <p style="padding-bottom: 0pt; text-indent: -16px; " class="paragraph_style_1"><span style="font-size: 14px; " class="구분점">•</span><span style="width: 8px; " class="inline-block"></span><span class="style_6">Web-based Information Systems</span> - full course at Yonsei Extension (1998)</p>
-                    </li>
-                  </ol>
-                </div>
-              </div>
-            </div>
-            
-
-
-            <div id="id6" style="height: 37px; left: 261px; position: absolute; top: 1141px; width: 402px; z-index: 1; " class="style_SkipStroke_3 shape-with-text">
-              <div class="text-content graphic_shape_layout_style_default_External_402_37" style="padding: 0px; ">
-                <div class="graphic_shape_layout_style_default">
-                  <p style="padding-bottom: 0pt; padding-top: 0pt; " class="Title">Teaching Experiences</p>
-                </div>
-              </div>
-            </div>
-            
-
-
-            <div id="id7" style="height: 26px; left: 37px; position: absolute; top: 708px; width: 178px; z-index: 1; " class="style_SkipStroke_3 shape-with-text">
+            <div id="id3" style="height: 26px; left: 36px; position: absolute; top: 801px; width: 178px; z-index: 1; " class="style_SkipStroke_3 shape-with-text">
               <div class="text-content graphic_shape_layout_style_default_External_178_26" style="padding: 0px; ">
                 <div class="graphic_shape_layout_style_default">
-                  <p style="padding-bottom: 0pt; padding-top: 0pt; " class="paragraph_style_2">WWW2007, Banff, Canada</p>
+                  <p style="padding-bottom: 0pt; padding-top: 0pt; " class="paragraph_style_9">WWW2007, Banff, Canada</p>
                 </div>
               </div>
             </div>
             
 
 
-            <div style="height: 171px; width: 217px;  height: 170px; left: 17px; position: absolute; top: 534px; width: 217px; z-index: 1; " class="tinyText shadow_1">
+            <div style="height: 171px; width: 217px;  height: 170px; left: 16px; position: absolute; top: 627px; width: 217px; z-index: 1; " class="tinyText shadow_1">
               <div style="position: relative; width: 217px; ">
                 <img src="Bio_files/shapeimage_7.png" alt="" style="height: 171px; left: 0px; position: absolute; top: 0px; width: 217px; " />
               </div>
@@ -234,7 +220,7 @@ new NavBar('widget0', 'Scripts/Widgets/Navbar', 'Scripts/Widgets/SharedResources
             
 
 
-            <div style="height: 140px; width: 186px;  height: 140px; left: 31px; position: absolute; top: 548px; width: 185px; z-index: 1; " class="tinyText">
+            <div style="height: 140px; width: 186px;  height: 140px; left: 30px; position: absolute; top: 641px; width: 185px; z-index: 1; " class="tinyText">
               <div style="position: relative; width: 185px; ">
                 <img src="Bio_files/shapeimage_8.png" alt="" style="height: 140px; left: 0px; position: absolute; top: 0px; width: 186px; " />
               </div>
@@ -242,7 +228,7 @@ new NavBar('widget0', 'Scripts/Widgets/Navbar', 'Scripts/Widgets/SharedResources
             
 
 
-            <div style="height: 171px; width: 218px;  height: 171px; left: 15px; position: absolute; top: 751px; width: 218px; z-index: 1; " class="tinyText shadow_2">
+            <div style="height: 171px; width: 218px;  height: 171px; left: 14px; position: absolute; top: 844px; width: 218px; z-index: 1; " class="tinyText shadow_2">
               <div style="position: relative; width: 218px; ">
                 <img src="Bio_files/shapeimage_9.png" alt="" style="height: 171px; left: 0px; position: absolute; top: 0px; width: 218px; " />
               </div>
@@ -250,7 +236,7 @@ new NavBar('widget0', 'Scripts/Widgets/Navbar', 'Scripts/Widgets/SharedResources
             
 
 
-            <div style="height: 140px; width: 186px;  height: 140px; left: 29px; position: absolute; top: 765px; width: 185px; z-index: 1; " class="tinyText">
+            <div style="height: 140px; width: 186px;  height: 140px; left: 28px; position: absolute; top: 858px; width: 185px; z-index: 1; " class="tinyText">
               <div style="position: relative; width: 185px; ">
                 <img src="Bio_files/shapeimage_10.png" alt="" style="height: 140px; left: 0px; position: absolute; top: 0px; width: 186px; " />
               </div>
@@ -258,53 +244,17 @@ new NavBar('widget0', 'Scripts/Widgets/Navbar', 'Scripts/Widgets/SharedResources
             
 
 
-            <div id="id8" style="height: 26px; left: 37px; position: absolute; top: 921px; width: 178px; z-index: 1; " class="style_SkipStroke_3 shape-with-text">
+            <div id="id4" style="height: 26px; left: 36px; position: absolute; top: 1014px; width: 178px; z-index: 1; " class="style_SkipStroke_3 shape-with-text">
               <div class="text-content graphic_shape_layout_style_default_External_178_26" style="padding: 0px; ">
                 <div class="graphic_shape_layout_style_default">
-                  <p style="padding-bottom: 0pt; padding-top: 0pt; " class="paragraph_style_2">WWW2008, Beijing, China</p>
+                  <p style="padding-bottom: 0pt; padding-top: 0pt; " class="paragraph_style_9">WWW2008, Beijing, China</p>
                 </div>
               </div>
             </div>
             
 
 
-            <div id="id9" style="height: 179px; left: 258px; position: absolute; top: 642px; width: 402px; z-index: 1; " class="style_SkipStroke_2 shape-with-text">
-              <div class="text-content style_External_402_179" style="padding: 0px; ">
-                <div class="style_3">
-                  <ol>
-                    <li style="line-height: 19px; padding-left: 16px; text-indent: -16px; " class="full-width">
-                      <p style="padding-top: 0pt; text-indent: -16px; " class="paragraph_style_1"><span style="font-size: 14px; " class="구분점">•</span><span style="width: 8px; " class="inline-block"></span>Nation of Neighbors Social Network Visualization (NSF; 2010-)<br /></p>
-                    </li>
-                    <li style="line-height: 19px; padding-left: 16px; text-indent: -16px; " class="full-width">
-                      <p style="text-indent: -16px; " class="paragraph_style_1"><span style="font-size: 14px; " class="구분점">•</span><span style="width: 8px; " class="inline-block"></span>User-centric, Adaptive and Collaborative Information Filtering (NSF <a title="http://amber.exp.sis.pitt.edu/uacf/" href="http://amber.exp.sis.pitt.edu/uacf/">Collaborative Project</a>; 2009)<br /></p>
-                    </li>
-                    <li style="line-height: 19px; padding-left: 16px; text-indent: -16px; " class="full-width">
-                      <p style="text-indent: -16px; " class="paragraph_style_1"><span style="font-size: 14px; " class="구분점">•</span><span style="width: 8px; " class="inline-block"></span>Carnegie Museum of Arts (2008)<br /></p>
-                    </li>
-                    <li style="line-height: 19px; padding-left: 16px; text-indent: -16px; " class="full-width">
-                      <p style="text-indent: -16px; " class="paragraph_style_1"><span style="font-size: 14px; " class="구분점">•</span><span style="width: 8px; " class="inline-block"></span>GALE Program (DARPA; 2005~2007)<br /></p>
-                    </li>
-                    <li style="line-height: 19px; padding-left: 16px; text-indent: -16px; " class="full-width">
-                      <p style="padding-bottom: 0pt; text-indent: -16px; " class="paragraph_style_1"><span style="font-size: 14px; " class="구분점">•</span><span style="width: 8px; " class="inline-block"></span>Personalized Access to Open Corpus Educational Resources through Adaptive Navigation Support and Adaptive Visualization (NSF CAREER; 2004~2010)</p>
-                    </li>
-                  </ol>
-                </div>
-              </div>
-            </div>
-            
-
-
-            <div id="id10" style="height: 37px; left: 258px; position: absolute; top: 605px; width: 402px; z-index: 1; " class="style_SkipStroke_3 shape-with-text">
-              <div class="text-content graphic_shape_layout_style_default_External_402_37" style="padding: 0px; ">
-                <div class="graphic_shape_layout_style_default">
-                  <p style="padding-bottom: 0pt; padding-top: 0pt; " class="Title">Research Projects</p>
-                </div>
-              </div>
-            </div>
-            
-
-
-            <div style="height: 170px; width: 216px;  height: 170px; left: 15px; position: absolute; top: 967px; width: 216px; z-index: 1; " class="tinyText shadow_1">
+            <div style="height: 170px; width: 216px;  height: 170px; left: 14px; position: absolute; top: 1060px; width: 216px; z-index: 1; " class="tinyText shadow_3">
               <div style="position: relative; width: 216px; ">
                 <img src="Bio_files/shapeimage_11.png" alt="" style="height: 170px; left: 0px; position: absolute; top: 0px; width: 216px; " />
               </div>
@@ -312,7 +262,7 @@ new NavBar('widget0', 'Scripts/Widgets/Navbar', 'Scripts/Widgets/SharedResources
             
 
 
-            <div style="height: 139px; width: 186px;  height: 139px; left: 29px; position: absolute; top: 981px; width: 185px; z-index: 1; " class="tinyText">
+            <div style="height: 139px; width: 186px;  height: 139px; left: 28px; position: absolute; top: 1074px; width: 185px; z-index: 1; " class="tinyText">
               <div style="position: relative; width: 185px; ">
                 <img src="Bio_files/shapeimage_12.png" alt="" style="height: 139px; left: 0px; position: absolute; top: 0px; width: 186px; " />
               </div>
@@ -320,15 +270,41 @@ new NavBar('widget0', 'Scripts/Widgets/Navbar', 'Scripts/Widgets/SharedResources
             
 
 
-            <div id="id11" style="height: 50px; left: 37px; position: absolute; top: 1143px; width: 178px; z-index: 1; " class="style_SkipStroke_3 shape-with-text">
+            <div id="id5" style="height: 50px; left: 36px; position: absolute; top: 1236px; width: 178px; z-index: 1; " class="style_SkipStroke_3 shape-with-text">
               <div class="text-content graphic_shape_layout_style_default_External_178_50" style="padding: 0px; ">
                 <div class="graphic_shape_layout_style_default">
-                  <p style="padding-top: 0pt; " class="paragraph_style_2">Park Guel, Barcelona, Spain<br /></p>
-                  <p style="padding-bottom: 0pt; " class="paragraph_style_2">During the internship training at Telefonica I+D, 2009</p>
+                  <p style="padding-top: 0pt; " class="paragraph_style_9">Park Guel, Barcelona, Spain<br /></p>
+                  <p style="padding-bottom: 0pt; " class="paragraph_style_9">During the internship training at Telefonica I+D, 2009</p>
                 </div>
               </div>
             </div>
-            <div style="height: 848px; line-height: 848px; " class="spacer"> </div>
+            
+
+
+            <div id="id6" style="height: 36px; left: 36px; position: absolute; top: 588px; width: 178px; z-index: 1; " class="style_SkipStroke_3 shape-with-text">
+              <div class="text-content graphic_shape_layout_style_default_External_178_36" style="padding: 0px; ">
+                <div class="graphic_shape_layout_style_default">
+                  <p style="padding-bottom: 0pt; padding-top: 0pt; " class="paragraph_style_9">With the most cited authors in HCI and WWW</p>
+                </div>
+              </div>
+            </div>
+            
+
+
+            <div style="height: 171px; width: 217px;  height: 170px; left: 16px; position: absolute; top: 414px; width: 217px; z-index: 1; " class="tinyText shadow_4">
+              <div style="position: relative; width: 217px; ">
+                <img src="Bio_files/shapeimage_13.png" alt="" style="height: 171px; left: 0px; position: absolute; top: 0px; width: 217px; " />
+              </div>
+            </div>
+            
+
+
+            <div style="height: 140px; width: 186px;  height: 140px; left: 30px; position: absolute; top: 428px; width: 185px; z-index: 1; " class="tinyText">
+              <div style="position: relative; width: 185px; ">
+                <img src="Bio_files/shapeimage_14.png" alt="" style="height: 140px; left: 0px; position: absolute; top: 0px; width: 186px; " />
+              </div>
+            </div>
+            <div style="height: 0px; line-height: 0px; " class="spacer"> </div>
           </div>
           <div style="height: 100px; margin-left: 0px; position: relative; width: 700px; z-index: 15; " id="footer_layer">
             <div style="height: 0px; line-height: 0px; " class="bumper"> </div>
@@ -336,7 +312,7 @@ new NavBar('widget0', 'Scripts/Widgets/Navbar', 'Scripts/Widgets/SharedResources
         </div>
       </div>
     </div>
-  <script src="http://www.google-analytics.com/urchin.js" type="text/javascript"></script><script type="text/javascript">_uacct = "UA-4780107-4";urchinTracker();</script></body>
+  </body>
 </html>
 
 

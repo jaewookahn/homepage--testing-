@@ -5,8 +5,8 @@
 <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="ko" lang="ko">
   <head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
     
-    <meta name="Generator" content="iWeb 3.0.2" />
-    <meta name="iWeb-Build" content="local-build-20101204" />
+    <meta name="Generator" content="iWeb 3.0.4" />
+    <meta name="iWeb-Build" content="local-build-20120112" />
     <meta http-equiv="X-UA-Compatible" content="IE=EmulateIE7" />
     <meta name="viewport" content="width=700" />
     <title>NameSieve</title>
@@ -65,12 +65,12 @@ new NavBar('widget0', 'Scripts/Widgets/Navbar', 'Scripts/Widgets/SharedResources
           </div>
           <div style="margin-left: 0px; position: relative; width: 700px; z-index: 5; " id="body_layer">
             <div style="height: 0px; line-height: 0px; " class="bumper"> </div>
-            <div id="id1" style="height: 625px; left: 35px; position: absolute; top: 23px; width: 630px; z-index: 1; " class="style_SkipStroke_2 shape-with-text">
-              <div class="text-content graphic_shape_layout_style_default_External_630_625" style="padding: 0px; ">
+            <div id="id1" style="height: 662px; left: 35px; position: absolute; top: 23px; width: 630px; z-index: 1; " class="style_SkipStroke_2 shape-with-text">
+              <div class="text-content graphic_shape_layout_style_default_External_630_662" style="padding: 0px; ">
                 <div class="graphic_shape_layout_style_default">
                   <p style="padding-top: 0pt; " class="paragraph_style">This time, the *Sieve news filtering series supports filtering by named entities. Even though the personalization is not supported yet, users are provided with the interface with which they can select important names extracted from the ad-hoc retrieval lists. By selecting some relevant names, they can post-filter the original retrieval lists and get the ones that only contain those names.<br /></p>
                   <p class="paragraph_style"><br /></p>
-                  <p class="paragraph_style_1">Publication: in press<br /></p>
+                  <p class="paragraph_style_1">Publication: <span class="style">Ahn, J., Brusilovsky, P., Grady, J., and He, D. (2010). Semantic Annotation Based Exploratory Search for Information Analysts. Information Processing and Management, Special Issue on Semantic Annotations in Information Retrieval. 46(4):383-402.</span><br /></p>
                   <p class="paragraph_style"><br /></p>
                   <div class="paragraph paragraph_style"><div style="height: 446px; width: 603px;  height: 446px; position: relative; width: 603px; " class="tinyText style_SkipStroke_1 inline-block stroke_0"><img src="NameSieve_files/droppedImage.png" alt="" style="border: none; height: 446px; width: 604px; " /></div><br /></div>
                   <p style="padding-bottom: 0pt; " class="paragraph_style_2">NameSieve Interface</p>
@@ -78,7 +78,7 @@ new NavBar('widget0', 'Scripts/Widgets/Navbar', 'Scripts/Widgets/SharedResources
                 <div style="clear: both; height: 0px; line-height: 0px; " class="tinyText"> </div>
               </div>
             </div>
-            <div style="height: 648px; line-height: 648px; " class="spacer"> </div>
+            <div style="height: 685px; line-height: 685px; " class="spacer"> </div>
           </div>
           <div style="height: 100px; margin-left: 0px; position: relative; width: 700px; z-index: 15; " id="footer_layer">
             <div style="height: 0px; line-height: 0px; " class="bumper"> </div>
@@ -86,7 +86,7 @@ new NavBar('widget0', 'Scripts/Widgets/Navbar', 'Scripts/Widgets/SharedResources
         </div>
       </div>
     </div>
-  <script src="http://www.google-analytics.com/urchin.js" type="text/javascript"></script><script type="text/javascript">_uacct = "UA-4780107-4";urchinTracker();</script></body>
+  </body>
 </html>
 
 

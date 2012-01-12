@@ -1,6 +1,6 @@
 .paragraph_style {
     color: rgb(34, 37, 5);
-    font-family: 'Palatino-Roman', 'Palatino', serif;
+    font-family: 'ArialMT', 'Arial', sans-serif;
     font-size: 14px;
     font-stretch: normal;
     font-style: normal;
@@ -22,14 +22,14 @@
 }
 .paragraph_style_1 {
     color: rgb(34, 37, 5);
-    font-family: 'Palatino-BoldItalic', 'Palatino', serif;
+    font-family: 'Arial-BoldItalicMT', 'Arial', sans-serif;
     font-size: 14px;
     font-stretch: normal;
     font-style: italic;
     font-variant: normal;
     font-weight: 700;
     letter-spacing: 0;
-    line-height: 19px;
+    line-height: 18px;
     margin-bottom: 0px;
     margin-left: 0px;
     margin-right: 0px;
@@ -44,14 +44,14 @@
 }
 .paragraph_style_2 {
     color: rgb(34, 37, 5);
-    font-family: 'Palatino-Roman', 'Palatino', serif;
+    font-family: 'ArialMT', 'Arial', sans-serif;
     font-size: 14px;
     font-stretch: normal;
     font-style: normal;
     font-variant: normal;
     font-weight: 400;
     letter-spacing: 0;
-    line-height: 19px;
+    line-height: 18px;
     margin-bottom: 0px;
     margin-left: 0px;
     margin-right: 0px;
@@ -66,14 +66,14 @@
 }
 .paragraph_style_3 {
     color: rgb(34, 37, 5);
-    font-family: 'Palatino-Roman', 'Palatino', serif;
+    font-family: 'ArialMT', 'Arial', sans-serif;
     font-size: 14px;
     font-stretch: normal;
     font-style: normal;
     font-variant: normal;
     font-weight: 400;
     letter-spacing: 0;
-    line-height: 19px;
+    line-height: 17px;
     margin-bottom: 0px;
     margin-left: 0px;
     margin-right: 0px;
@@ -87,15 +87,15 @@
     text-transform: none;
 }
 .style {
-    font-family: 'Palatino-Bold', 'Palatino', serif;
+    font-family: 'Arial-BoldMT', 'Arial', sans-serif;
     font-size: 14px;
     font-stretch: normal;
     font-style: normal;
     font-weight: 700;
-    line-height: 19px;
+    line-height: 17px;
 }
 .style_1 {
-    line-height: 19px;
+    line-height: 17px;
 }
 .style_SkipStroke_2 {
     background: transparent;

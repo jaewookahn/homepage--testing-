@@ -1,6 +1,6 @@
 .paragraph_style {
     color: rgb(34, 37, 5);
-    font-family: 'Palatino-Roman', 'Palatino', serif;
+    font-family: 'ArialMT', 'Arial', sans-serif;
     font-size: 14px;
     font-stretch: normal;
     font-style: normal;
@@ -22,7 +22,7 @@
 }
 .paragraph_style_1 {
     color: rgb(34, 37, 5);
-    font-family: 'Palatino-BoldItalic', 'Palatino', serif;
+    font-family: 'Arial-BoldItalicMT', 'Arial', sans-serif;
     font-size: 14px;
     font-stretch: normal;
     font-style: italic;
@@ -43,7 +43,7 @@
     text-transform: none;
 }
 .style {
-    font-family: 'Palatino-Bold', 'Palatino', serif;
+    font-family: 'Arial-BoldMT', 'Arial', sans-serif;
     font-size: 14px;
     font-stretch: normal;
     font-style: normal;
@@ -55,7 +55,7 @@
 }
 .paragraph_style_2 {
     color: rgb(34, 37, 5);
-    font-family: 'Palatino-Roman', 'Palatino', serif;
+    font-family: 'ArialMT', 'Arial', sans-serif;
     font-size: 14px;
     font-stretch: normal;
     font-style: normal;
