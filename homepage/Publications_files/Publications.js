@@ -4,6 +4,6 @@ setTransparentGifURL('Media/transparent.gif');function hostedOnDM()
 {return false;}
 function onPageLoad()
 {loadMozillaCSS('Publications_files/PublicationsMoz.css')
-adjustLineHeightIfTooBig('id1');adjustFontSizeIfTooBig('id1');fixAllIEPNGs('Media/transparent.gif');Widget.onload();performPostEffectsFixups()}
+adjustLineHeightIfTooBig('id1');adjustFontSizeIfTooBig('id1');fixAllIEPNGs('Media/transparent.gif');Widget.onload();fixupAllIEPNGBGs();performPostEffectsFixups()}
 function onPageUnload()
 {Widget.onunload();}
