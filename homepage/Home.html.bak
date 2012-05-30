@@ -6,7 +6,7 @@
   <head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
     
     <meta name="Generator" content="iWeb 3.0.4" />
-    <meta name="iWeb-Build" content="local-build-20120124" />
+    <meta name="iWeb-Build" content="local-build-20120314" />
     <meta http-equiv="X-UA-Compatible" content="IE=EmulateIE7" />
     <meta name="viewport" content="width=700" />
     <title>Jae-wook @umd.edu</title>
@@ -111,7 +111,7 @@ new NavBar('widget0', 'Scripts/Widgets/Navbar', 'Scripts/Widgets/SharedResources
             <div id="id1" style="height: 37px; left: 255px; position: absolute; top: 436px; width: 397px; z-index: 1; " class="style_SkipStroke_2 shape-with-text">
               <div class="text-content graphic_shape_layout_style_default_External_397_37" style="padding: 0px; ">
                 <div class="graphic_shape_layout_style_default">
-                  <p style="padding-bottom: 0pt; padding-top: 0pt; " class="paragraph_style_1">Welcome...</p>
+                  <p style="padding-bottom: 0pt; padding-top: 0pt; " class="paragraph_style_1">Welcome!</p>
                 </div>
               </div>
             </div>
@@ -135,7 +135,7 @@ new NavBar('widget0', 'Scripts/Widgets/Navbar', 'Scripts/Widgets/SharedResources
         </div>
       </div>
     </div>
-  <script src="http://www.google-analytics.com/urchin.js" type="text/javascript"></script><script type="text/javascript">_uacct = "UA-4780107-4";urchinTracker();</script></body>
+  </body>
 </html>
 
 
