@@ -94,14 +94,14 @@
 }
 .paragraph_style_3 {
     color: rgb(95, 95, 95);
-    font-family: 'ArialMT', 'Arial', sans-serif;
-    font-size: 20px;
+    font-family: 'Arial-BoldMT', 'Arial', sans-serif;
+    font-size: 18px;
     font-stretch: normal;
     font-style: normal;
     font-variant: normal;
-    font-weight: 400;
+    font-weight: 700;
     letter-spacing: 0;
-    line-height: 23px;
+    line-height: 21px;
     margin-bottom: 0px;
     margin-left: 0px;
     margin-right: 0px;
@@ -110,7 +110,7 @@
     padding-bottom: 5px;
     padding-top: 0px;
     text-align: left;
-    text-decoration: underline;
+    text-decoration: none;
     text-indent: 0px;
     text-transform: none;
 }
@@ -129,28 +129,6 @@
     font-weight: 400;
     letter-spacing: 0;
     line-height: 16px;
-    margin-bottom: 0px;
-    margin-left: 0px;
-    margin-right: 0px;
-    margin-top: 0px;
-    opacity: 1.00;
-    padding-bottom: 5px;
-    padding-top: 0px;
-    text-align: left;
-    text-decoration: none;
-    text-indent: 0px;
-    text-transform: none;
-}
-.paragraph_style_5 {
-    color: rgb(95, 95, 95);
-    font-family: 'Arial-BoldMT', 'Arial', sans-serif;
-    font-size: 18px;
-    font-stretch: normal;
-    font-style: normal;
-    font-variant: normal;
-    font-weight: 700;
-    letter-spacing: 0;
-    line-height: 21px;
     margin-bottom: 0px;
     margin-left: 0px;
     margin-right: 0px;
@@ -205,11 +183,11 @@
     background: transparent;
     opacity: 1.00;
 }
+.graphic_shape_layout_style_default_External_630_1914 {
+    position: relative;
+}
 .graphic_shape_layout_style_default {
     padding: 4px;
-}
-.graphic_shape_layout_style_default_External_630_1916 {
-    position: relative;
 }
 a {
     color: rgb(84, 166, 189);
