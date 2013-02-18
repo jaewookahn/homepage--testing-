@@ -86,16 +86,8 @@ new NavBar('widget0', 'Scripts/Widgets/Navbar', 'Scripts/Widgets/SharedResources
                 <div style="clear: both; height: 0px; line-height: 0px; " class="tinyText"> </div>
               </div>
             </div>
-            
-
-
-            <div style="height: 248px; width: 316px;  height: 248px; left: 321px; position: absolute; top: 61px; width: 315px; z-index: 1; " class="tinyText shadow_0">
-              <div style="position: relative; width: 315px; ">
-                <img src="Bio_files/shapeimage_5.png" alt="" style="height: 248px; left: 0px; margin-left: -1px; margin-top: 0px; position: absolute; top: 0px; width: 316px; " />
-              </div>
-            </div>
             <div style="height: 1px; line-height: 1px; " class="tinyText"> </div>
-            <div style="margin-left: 256px; margin-top: 339px; position: relative; width: 435px; z-index: 1; " class="style_SkipStroke_2 shape-with-text flowDefining">
+            <div style="margin-left: 255px; margin-top: 50px; position: relative; width: 435px; z-index: 1; " class="style_SkipStroke_2 shape-with-text flowDefining">
               <div class="text-content style_External_435_1080" style="padding: 0px; ">
                 <div class="style_3">
                   <p style="padding-top: 0pt; " class="paragraph_style_5">Education<br /></p>
@@ -200,15 +192,7 @@ new NavBar('widget0', 'Scripts/Widgets/Navbar', 'Scripts/Widgets/SharedResources
             
 
 
-            <div style="height: 203px; width: 270px;  height: 202px; left: 338px; position: absolute; top: 83px; width: 269px; z-index: 1; " class="tinyText">
-              <div style="position: relative; width: 269px; ">
-                <img src="Bio_files/shapeimage_6.png" alt="" style="height: 203px; left: 0px; margin-left: 0px; margin-top: 0px; position: absolute; top: 0px; width: 270px; " />
-              </div>
-            </div>
-            
-
-
-            <div id="id2" style="height: 26px; left: 47px; position: absolute; top: 748px; width: 178px; z-index: 1; " class="style_SkipStroke_3 shape-with-text">
+            <div id="id2" style="height: 26px; left: 47px; position: absolute; top: 939px; width: 178px; z-index: 1; " class="style_SkipStroke_3 shape-with-text">
               <div class="text-content graphic_shape_layout_style_default_External_178_26" style="padding: 0px; ">
                 <div class="graphic_shape_layout_style_default">
                   <p style="padding-bottom: 0pt; padding-top: 0pt; " class="paragraph_style_11">WWW2007, Banff, Canada</p>
@@ -218,15 +202,31 @@ new NavBar('widget0', 'Scripts/Widgets/Navbar', 'Scripts/Widgets/SharedResources
             
 
 
-            <div style="height: 171px; width: 217px;  height: 170px; left: 27px; position: absolute; top: 579px; width: 217px; z-index: 1; " class="tinyText shadow_1">
+            <div style="height: 171px; width: 217px;  height: 170px; left: 27px; position: absolute; top: 770px; width: 217px; z-index: 1; " class="tinyText shadow_0">
               <div style="position: relative; width: 217px; ">
-                <img src="Bio_files/shapeimage_7.png" alt="" style="height: 171px; left: 0px; position: absolute; top: 0px; width: 217px; " />
+                <img src="Bio_files/shapeimage_5.png" alt="" style="height: 171px; left: 0px; position: absolute; top: 0px; width: 217px; " />
               </div>
             </div>
             
 
 
-            <div style="height: 140px; width: 186px;  height: 140px; left: 41px; position: absolute; top: 593px; width: 185px; z-index: 1; " class="tinyText">
+            <div style="height: 140px; width: 186px;  height: 140px; left: 41px; position: absolute; top: 784px; width: 185px; z-index: 1; " class="tinyText">
+              <div style="position: relative; width: 185px; ">
+                <img src="Bio_files/shapeimage_6.png" alt="" style="height: 140px; left: 0px; position: absolute; top: 0px; width: 186px; " />
+              </div>
+            </div>
+            
+
+
+            <div style="height: 171px; width: 218px;  height: 171px; left: 25px; position: absolute; top: 968px; width: 218px; z-index: 1; " class="tinyText shadow_1">
+              <div style="position: relative; width: 218px; ">
+                <img src="Bio_files/shapeimage_7.png" alt="" style="height: 171px; left: 0px; position: absolute; top: 0px; width: 218px; " />
+              </div>
+            </div>
+            
+
+
+            <div style="height: 140px; width: 186px;  height: 140px; left: 40px; position: absolute; top: 984px; width: 185px; z-index: 1; " class="tinyText">
               <div style="position: relative; width: 185px; ">
                 <img src="Bio_files/shapeimage_8.png" alt="" style="height: 140px; left: 0px; position: absolute; top: 0px; width: 186px; " />
               </div>
@@ -234,23 +234,7 @@ new NavBar('widget0', 'Scripts/Widgets/Navbar', 'Scripts/Widgets/SharedResources
             
 
 
-            <div style="height: 171px; width: 218px;  height: 171px; left: 25px; position: absolute; top: 796px; width: 218px; z-index: 1; " class="tinyText shadow_2">
-              <div style="position: relative; width: 218px; ">
-                <img src="Bio_files/shapeimage_9.png" alt="" style="height: 171px; left: 0px; position: absolute; top: 0px; width: 218px; " />
-              </div>
-            </div>
-            
-
-
-            <div style="height: 140px; width: 186px;  height: 140px; left: 39px; position: absolute; top: 810px; width: 185px; z-index: 1; " class="tinyText">
-              <div style="position: relative; width: 185px; ">
-                <img src="Bio_files/shapeimage_10.png" alt="" style="height: 140px; left: 0px; position: absolute; top: 0px; width: 186px; " />
-              </div>
-            </div>
-            
-
-
-            <div id="id3" style="height: 26px; left: 47px; position: absolute; top: 963px; width: 178px; z-index: 1; " class="style_SkipStroke_3 shape-with-text">
+            <div id="id3" style="height: 26px; left: 47px; position: absolute; top: 1141px; width: 178px; z-index: 1; " class="style_SkipStroke_3 shape-with-text">
               <div class="text-content graphic_shape_layout_style_default_External_178_26" style="padding: 0px; ">
                 <div class="graphic_shape_layout_style_default">
                   <p style="padding-bottom: 0pt; padding-top: 0pt; " class="paragraph_style_11">WWW2008, Beijing, China</p>
@@ -260,23 +244,23 @@ new NavBar('widget0', 'Scripts/Widgets/Navbar', 'Scripts/Widgets/SharedResources
             
 
 
-            <div style="height: 170px; width: 216px;  height: 170px; left: 25px; position: absolute; top: 1012px; width: 216px; z-index: 1; " class="tinyText shadow_3">
+            <div style="height: 170px; width: 216px;  height: 170px; left: 26px; position: absolute; top: 1173px; width: 216px; z-index: 1; " class="tinyText shadow_2">
               <div style="position: relative; width: 216px; ">
-                <img src="Bio_files/shapeimage_11.png" alt="" style="height: 170px; left: 0px; position: absolute; top: 0px; width: 216px; " />
+                <img src="Bio_files/shapeimage_9.png" alt="" style="height: 170px; left: 0px; position: absolute; top: 0px; width: 216px; " />
               </div>
             </div>
             
 
 
-            <div style="height: 139px; width: 186px;  height: 139px; left: 39px; position: absolute; top: 1026px; width: 185px; z-index: 1; " class="tinyText">
+            <div style="height: 139px; width: 186px;  height: 139px; left: 40px; position: absolute; top: 1187px; width: 185px; z-index: 1; " class="tinyText">
               <div style="position: relative; width: 185px; ">
-                <img src="Bio_files/shapeimage_12.png" alt="" style="height: 139px; left: 0px; position: absolute; top: 0px; width: 186px; " />
+                <img src="Bio_files/shapeimage_10.png" alt="" style="height: 139px; left: 0px; position: absolute; top: 0px; width: 186px; " />
               </div>
             </div>
             
 
 
-            <div id="id4" style="height: 50px; left: 47px; position: absolute; top: 1181px; width: 178px; z-index: 1; " class="style_SkipStroke_3 shape-with-text">
+            <div id="id4" style="height: 50px; left: 47px; position: absolute; top: 1344px; width: 178px; z-index: 1; " class="style_SkipStroke_3 shape-with-text">
               <div class="text-content graphic_shape_layout_style_default_External_178_50" style="padding: 0px; ">
                 <div class="graphic_shape_layout_style_default">
                   <p style="padding-top: 0pt; " class="paragraph_style_11">Park Guel, Barcelona, Spain<br /></p>
@@ -297,9 +281,9 @@ new NavBar('widget0', 'Scripts/Widgets/Navbar', 'Scripts/Widgets/SharedResources
             
 
 
-            <div style="height: 171px; width: 217px;  height: 170px; left: 27px; position: absolute; top: 366px; width: 217px; z-index: 1; " class="tinyText shadow_4">
+            <div style="height: 171px; width: 217px;  height: 170px; left: 27px; position: absolute; top: 366px; width: 217px; z-index: 1; " class="tinyText shadow_3">
               <div style="position: relative; width: 217px; ">
-                <img src="Bio_files/shapeimage_13.png" alt="" style="height: 171px; left: 0px; position: absolute; top: 0px; width: 217px; " />
+                <img src="Bio_files/shapeimage_11.png" alt="" style="height: 171px; left: 0px; position: absolute; top: 0px; width: 217px; " />
               </div>
             </div>
             
@@ -307,13 +291,29 @@ new NavBar('widget0', 'Scripts/Widgets/Navbar', 'Scripts/Widgets/SharedResources
 
             <div style="height: 140px; width: 186px;  height: 140px; left: 41px; position: absolute; top: 380px; width: 185px; z-index: 1; " class="tinyText">
               <div style="position: relative; width: 185px; ">
-                <img src="Bio_files/shapeimage_14.png" alt="" style="height: 140px; left: 0px; position: absolute; top: 0px; width: 186px; " />
+                <img src="Bio_files/shapeimage_12.png" alt="" style="height: 140px; left: 0px; position: absolute; top: 0px; width: 186px; " />
               </div>
             </div>
             
 
 
-            <div style="height: 1px; width: 182px;  height: 1px; left: 254px; position: absolute; top: 362px; width: 182px; z-index: 1; " class="tinyText">
+            <div style="height: 1px; width: 182px;  height: 1px; left: 253px; position: absolute; top: 73px; width: 182px; z-index: 1; " class="tinyText">
+              <div style="position: relative; width: 182px; ">
+                <img src="Bio_files/shapeimage_13.png" alt="" style="height: 1px; left: 0px; position: absolute; top: 0px; width: 182px; " />
+              </div>
+            </div>
+            
+
+
+            <div style="height: 1px; width: 182px;  height: 1px; left: 253px; position: absolute; top: 258px; width: 182px; z-index: 1; " class="tinyText">
+              <div style="position: relative; width: 182px; ">
+                <img src="Bio_files/shapeimage_14.png" alt="" style="height: 1px; left: 0px; position: absolute; top: 0px; width: 182px; " />
+              </div>
+            </div>
+            
+
+
+            <div style="height: 1px; width: 182px;  height: 1px; left: 253px; position: absolute; top: 583px; width: 182px; z-index: 1; " class="tinyText">
               <div style="position: relative; width: 182px; ">
                 <img src="Bio_files/shapeimage_15.png" alt="" style="height: 1px; left: 0px; position: absolute; top: 0px; width: 182px; " />
               </div>
@@ -321,7 +321,7 @@ new NavBar('widget0', 'Scripts/Widgets/Navbar', 'Scripts/Widgets/SharedResources
             
 
 
-            <div style="height: 1px; width: 182px;  height: 1px; left: 254px; position: absolute; top: 547px; width: 182px; z-index: 1; " class="tinyText">
+            <div style="height: 1px; width: 182px;  height: 1px; left: 253px; position: absolute; top: 829px; width: 182px; z-index: 1; " class="tinyText">
               <div style="position: relative; width: 182px; ">
                 <img src="Bio_files/shapeimage_16.png" alt="" style="height: 1px; left: 0px; position: absolute; top: 0px; width: 182px; " />
               </div>
@@ -329,20 +329,36 @@ new NavBar('widget0', 'Scripts/Widgets/Navbar', 'Scripts/Widgets/SharedResources
             
 
 
-            <div style="height: 1px; width: 182px;  height: 1px; left: 254px; position: absolute; top: 872px; width: 182px; z-index: 1; " class="tinyText">
-              <div style="position: relative; width: 182px; ">
-                <img src="Bio_files/shapeimage_17.png" alt="" style="height: 1px; left: 0px; position: absolute; top: 0px; width: 182px; " />
+            <div style="height: 130px; width: 196px;  height: 130px; left: 38px; position: absolute; top: 587px; width: 196px; z-index: 1; " class="tinyText style_SkipStroke_4 stroke_0 shadow_4">
+              <img src="Bio_files/droppedImage.jpg" alt="" style="border: none; height: 131px; width: 196px; " />
+            </div>
+            
+
+
+            <div id="id6" style="height: 36px; left: 43px; position: absolute; top: 728px; width: 178px; z-index: 1; " class="style_SkipStroke_3 shape-with-text">
+              <div class="text-content graphic_shape_layout_style_default_External_178_36" style="padding: 0px; ">
+                <div class="graphic_shape_layout_style_default">
+                  <p style="padding-bottom: 0pt; padding-top: 0pt; " class="paragraph_style_12">With Dr. Derek Hansen at the HCIL Symposium 2011</p>
+                </div>
               </div>
             </div>
             
 
 
-            <div style="height: 1px; width: 182px;  height: 1px; left: 254px; position: absolute; top: 1118px; width: 182px; z-index: 1; " class="tinyText">
-              <div style="position: relative; width: 182px; ">
-                <img src="Bio_files/shapeimage_18.png" alt="" style="height: 1px; left: 0px; position: absolute; top: 0px; width: 182px; " />
+            <div style="height: 227px; width: 288px;  height: 227px; left: 404px; position: absolute; top: 1145px; width: 288px; z-index: 1; " class="tinyText shadow_5">
+              <div style="position: relative; width: 288px; ">
+                <img src="Bio_files/shapeimage_17.png" alt="" style="height: 227px; left: 0px; margin-left: 0px; margin-top: -1px; position: absolute; top: 0px; width: 288px; " />
               </div>
             </div>
-            <div style="height: 0px; line-height: 0px; " class="spacer"> </div>
+            
+
+
+            <div style="height: 187px; width: 250px;  height: 186px; left: 423px; position: absolute; top: 1162px; width: 248px; z-index: 1; " class="tinyText">
+              <div style="position: relative; width: 248px; ">
+                <img src="Bio_files/shapeimage_18.png" alt="" style="height: 187px; left: 0px; margin-left: -1px; margin-top: 0px; position: absolute; top: 0px; width: 250px; " />
+              </div>
+            </div>
+            <div style="height: 263px; line-height: 263px; " class="spacer"> </div>
           </div>
           <div style="height: 100px; margin-left: 0px; position: relative; width: 700px; z-index: 15; " id="footer_layer">
             <div style="height: 0px; line-height: 0px; " class="bumper"> </div>
