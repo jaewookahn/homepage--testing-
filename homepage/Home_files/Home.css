@@ -4,13 +4,13 @@
 .paragraph_style {
     color: rgb(146, 146, 146);
     font-family: 'ArialMT', 'Arial', sans-serif;
-    font-size: 16px;
+    font-size: 12px;
     font-stretch: normal;
     font-style: normal;
     font-variant: normal;
     font-weight: 400;
     letter-spacing: 0;
-    line-height: 18px;
+    line-height: 14px;
     margin-bottom: 0px;
     margin-left: 0px;
     margin-right: 0px;
@@ -25,11 +25,11 @@
 }
 .style_1 {
     font-family: 'Arial-BoldMT', 'Arial', sans-serif;
-    font-size: 16px;
+    font-size: 12px;
     font-stretch: normal;
     font-style: normal;
     font-weight: 700;
-    line-height: 18px;
+    line-height: 14px;
 }
 .paragraph_style_1 {
     color: rgb(95, 95, 95);
@@ -71,7 +71,11 @@
     background: transparent;
     opacity: 1.00;
 }
-.style_External_397_240 {
+.style_SkipStroke_4 {
+    background: transparent;
+    opacity: 1.00;
+}
+.style_External_244_253 {
     position: relative;
 }
 .Body {
@@ -99,7 +103,7 @@
 .Normal {
     padding: 4px;
 }
-.Normal_External_397_240 {
+.Normal_External_244_253 {
     position: relative;
 }
 .Title {

@@ -1,7 +1,7 @@
 .paragraph_style {
     color: rgb(34, 37, 5);
     font-family: 'ArialMT', 'Arial', sans-serif;
-    font-size: 14px;
+    font-size: 12px;
     font-stretch: normal;
     font-style: normal;
     font-variant: normal;
@@ -25,24 +25,16 @@
 }
 .style_1 {
     font-family: 'Arial-BoldMT', 'Arial', sans-serif;
-    font-size: 14px;
+    font-size: 12px;
     font-stretch: normal;
     font-style: normal;
     font-weight: 700;
     line-height: 19px;
 }
-.style_2 {
-    font-family: 'ArialMT', 'Arial', sans-serif;
-    font-size: 13px;
-    font-stretch: normal;
-    font-style: normal;
-    font-weight: 400;
-    line-height: 19px;
-}
 .paragraph_style_1 {
     color: rgb(34, 37, 5);
     font-family: 'ArialMT', 'Arial', sans-serif;
-    font-size: 14px;
+    font-size: 12px;
     font-stretch: normal;
     font-style: normal;
     font-variant: normal;
@@ -64,7 +56,7 @@
 .paragraph_style_2 {
     color: rgb(34, 37, 5);
     font-family: 'Arial-BoldItalicMT', 'Arial', sans-serif;
-    font-size: 14px;
+    font-size: 12px;
     font-stretch: normal;
     font-style: italic;
     font-variant: normal;
