@@ -149,24 +149,33 @@
     position: relative;
 }
 a {
-    color: rgb(126, 157, 82);
+    color: rgb(84, 166, 189);
     text-decoration: none;
 }
 a:visited {
-    color: rgb(81, 81, 81);
+    color: rgb(84, 166, 189);
     text-decoration: none;
 }
 a.class1 {
-    text-decoration: underline;
+    color: rgb(84, 166, 189);
 }
 a.class1:visited {
-    text-decoration: underline;
+    color: rgb(84, 166, 189);
 }
 a.class1:hover {
+    color: rgb(175, 22, 0);
+}
+a.class2 {
+    text-decoration: underline;
+}
+a.class2:visited {
+    text-decoration: underline;
+}
+a.class2:hover {
     text-decoration: underline;
 }
 a:hover {
-    color: rgb(0, 0, 0);
+    color: rgb(175, 22, 0);
     text-decoration: none;
 }
 .bumper {
@@ -178,15 +187,15 @@ a:hover {
     line-height: 1px;
 }
 #widget0 a:hover {
-    color: rgb(0, 0, 0);
+    color: rgb(175, 22, 0);
     text-decoration: none;
 }
 #widget0 a:visited {
-    color: rgb(81, 81, 81);
+    color: rgb(84, 166, 189);
     text-decoration: none;
 }
 #widget0 a {
-    color: rgb(126, 157, 82);
+    color: rgb(84, 166, 189);
     text-decoration: none;
 }
 .spacer {

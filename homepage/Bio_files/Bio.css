@@ -533,11 +533,21 @@ a {
     text-decoration: none;
 }
 a:visited {
-    color: rgb(81, 81, 81);
+    color: rgb(84, 166, 189);
     text-decoration: none;
 }
+a.class1 {
+    color: rgb(84, 166, 189);
+    text-decoration: none;
+}
+a.class1:visited {
+    color: rgb(84, 166, 189);
+}
+a.class1:hover {
+    color: rgb(175, 22, 0);
+}
 a:hover {
-    color: rgb(0, 0, 0);
+    color: rgb(175, 22, 0);
     text-decoration: none;
 }
 ol  { 
@@ -561,11 +571,11 @@ ol  {
     line-height: 1px;
 }
 #widget0 a:hover {
-    color: rgb(0, 0, 0);
+    color: rgb(175, 22, 0);
     text-decoration: none;
 }
 #widget0 a:visited {
-    color: rgb(81, 81, 81);
+    color: rgb(84, 166, 189);
     text-decoration: none;
 }
 #widget0 a {
