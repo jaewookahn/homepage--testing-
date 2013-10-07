@@ -6,7 +6,7 @@
   <head>
     <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
     <meta name="Generator" content="iWeb 3.0.4" />
-    <meta name="iWeb-Build" content="local-build-20130904" />
+    <meta name="iWeb-Build" content="local-build-20131007" />
     <meta http-equiv="X-UA-Compatible" content="IE=EmulateIE7" />
     <meta name="viewport" content="width=700" />
     <title>Jae-wook’s Homepage</title>
@@ -63,14 +63,18 @@ new NavBar('widget0', 'Scripts/Widgets/Navbar', 'Scripts/Widgets/SharedResources
               <img src="Home_files/home_bkgnd.jpg" alt="" style="border: none; height: 406px; width: 704px; " />
             </div>
             <div style="height: 1px; line-height: 1px; " class="tinyText"> </div>
-            <div style="margin-left: 430px; margin-top: 467px; position: relative; width: 244px; z-index: 1; " class="style_SkipStroke_1 shape-with-text flowDefining">
-              <div class="text-content style_External_244_253" style="padding: 0px; ">
+            <div style="margin-left: 221px; margin-top: 467px; position: relative; width: 453px; z-index: 1; " class="style_SkipStroke_1 shape-with-text flowDefining">
+              <div class="text-content style_External_453_428" style="padding: 0px; ">
                 <div class="style">
-                  <p style="padding-top: 0pt; " class="paragraph_style">Hi. I am Jae-wook Ahn, a data scientist at Drexel University.  I worked as an NSF-CRA <a class="class1" title="http://www.cifellows.org" href="http://www.cifellows.org">Computing Innovation Fellow</a> at the <a title="http://www.cs.umd.edu/hcil" href="http://www.cs.umd.edu/hcil">Human-Computer Interaction Lab</a>, University of Maryland. <br /></p>
+                  <p style="padding-top: 0pt; " class="paragraph_style">Hi. I am Jae-wook Ahn, a data scientist at the College of Computing and Informatics, Drexel University.  I worked as an NSF-CRA <a class="class1" title="http://www.cifellows.org" href="http://www.cifellows.org">Computing Innovation Fellow</a> at the <a title="http://www.cs.umd.edu/hcil" href="http://www.cs.umd.edu/hcil">Human-Computer Interaction Lab</a>, University of Maryland. <br /></p>
                   <p class="paragraph_style">I received my Ph.D. from the <a title="http://ischool.pitt.edu" href="http://ischool.pitt.edu">School of Information Sciences</a>, University of Pittsburgh and do research on <span class="style_1">personalized/social information retrieval</span>, <span class="style_1">human-computer interaction</span>, and <span class="style_1">(adaptive) social network information analysis/visualization</span>. <br /></p>
-                  <p style="padding-bottom: 0pt; " class="paragraph_style">Please see the <a title="Research.html" href="Research.html">research</a> and <a title="Publications.html" href="Publications.html">publication</a> pages and my <a class="class2" title="http://cluster.ischool.drexel.edu/~jahn/cv.pdf" href="http://cluster.ischool.drexel.edu/~jahn/cv.pdf">Curriculum Vitae</a> for more details.</p>
+                  <p class="paragraph_style">Please see the <a title="Research.html" href="Research.html">research</a> and <a title="Publications.html" href="Publications.html">publication</a> pages and my <a class="class2" title="http://cluster.ischool.drexel.edu/~jahn/cv.pdf" href="http://cluster.ischool.drexel.edu/~jahn/cv.pdf">Curriculum Vitae</a> for more details.<br /></p>
+                  <p class="paragraph_style_1">* News *<br /></p>
+                  <p class="paragraph_style_2"><span class="style_2">9/10/2013</span><span class="style_3"> -- A new paper (co-authors Catherine Plaisant and Ben Shneiderman), </span><a title="http://www.cs.umd.edu/localphp/hcil/tech-reports-search.php?number=2011-09" href="http://www.cs.umd.edu/localphp/hcil/tech-reports-search.php?number=2011-09" class="style_3">A Task Taxonomy of Network Evolution Analysis</a><span class="style_3"> was accepted to IEEE Transactions on Visualization and Computer Graphics (TVCG).<br /></span></p>
+                  <p class="paragraph_style_2"><span class="style_2">4/21/2013</span><span class="style_3"> -- A new paper (co-authored with Xia Lin), Challenges of knowledge structure visualization was accepted to the UDC Seminar 2013 “Classification and Visualization”</span><br /></p>
+                  <p class="paragraph_style_2"><span class="style_2">2/4/2013</span> <span class="style_3">-- Invited as one of two early-career participants (acceptance rate 8%) to the </span><a title="http://ils.unc.edu/taskbasedsearch/" href="http://ils.unc.edu/taskbasedsearch/" class="style_3">NSF-sponsored Task-Based Search Workshop</a><span class="style_3"> at UNC Chapel Hill, March 14-15.</span><br /></p>
+                  <p style="padding-bottom: 0pt; " class="paragraph_style"><span class="style_4">1/24/2013</span> -- A new paper (co-authored with Peter Brusilovsky), <a title="http://www.sciencedirect.com/science/article/pii/S0306457313000137" href="http://www.sciencedirect.com/science/article/pii/S0306457313000137">Adaptive Visualization for Exploratory Information Retrieval</a> was accepted to Information Processing and Management.</p>
                 </div>
-                <div style="height: 3px; line-height: 3px; " class="tinyText"> </div>
               </div>
             </div>
             
@@ -108,10 +112,10 @@ new NavBar('widget0', 'Scripts/Widgets/Navbar', 'Scripts/Widgets/SharedResources
             
 
 
-            <div id="id1" style="height: 37px; left: 432px; position: absolute; top: 427px; width: 397px; z-index: 1; " class="style_SkipStroke_2 shape-with-text">
+            <div id="id1" style="height: 37px; left: 217px; position: absolute; top: 427px; width: 397px; z-index: 1; " class="style_SkipStroke_2 shape-with-text">
               <div class="text-content graphic_shape_layout_style_default_External_397_37" style="padding: 0px; ">
                 <div class="graphic_shape_layout_style_default">
-                  <p style="padding-bottom: 0pt; padding-top: 0pt; " class="paragraph_style_1">Welcome</p>
+                  <p style="padding-bottom: 0pt; padding-top: 0pt; " class="paragraph_style_3">Welcome</p>
                 </div>
               </div>
             </div>
@@ -124,22 +128,22 @@ new NavBar('widget0', 'Scripts/Widgets/Navbar', 'Scripts/Widgets/SharedResources
             
 
 
-            <div style="height: 123px; width: 184px;  height: 123px; left: 222px; position: absolute; top: 439px; width: 184px; z-index: 1; " class="tinyText stroke_2">
-              <div style="position: relative; width: 184px; ">
-                <img src="Home_files/shapeimage_6.png" alt="" style="height: 123px; left: 0px; position: absolute; top: 0px; width: 184px; " />
-              </div>
+            <div style="height: 111px; width: 179px;  height: 111px; left: 18px; position: absolute; top: 585px; width: 179px; z-index: 1; " class="tinyText style_SkipStroke_3 stroke_1">
+              <img src="Home_files/NameSieve-NEpanel.jpg" alt="" style="border: none; height: 112px; width: 179px; " />
             </div>
             
 
 
-            <div style="height: 56px; width: 188px;  height: 56px; left: 220px; position: absolute; top: 587px; width: 188px; z-index: 1; " class="tinyText style_SkipStroke_4 stroke_3">
+            <div style="height: 56px; width: 188px;  height: 56px; left: 14px; position: absolute; top: 711px; width: 188px; z-index: 1; " class="tinyText style_SkipStroke_4 stroke_2">
               <img src="Home_files/snippet2-2.jpg" alt="" style="border: none; height: 57px; width: 188px; " />
             </div>
             
 
 
-            <div style="height: 111px; width: 179px;  height: 111px; left: 18px; position: absolute; top: 585px; width: 179px; z-index: 1; " class="tinyText style_SkipStroke_3 stroke_1">
-              <img src="Home_files/NameSieve-NEpanel.jpg" alt="" style="border: none; height: 112px; width: 179px; " />
+            <div style="height: 123px; width: 184px;  height: 123px; left: 15px; position: absolute; top: 782px; width: 184px; z-index: 1; " class="tinyText stroke_3">
+              <div style="position: relative; width: 184px; ">
+                <img src="Home_files/shapeimage_6.png" alt="" style="height: 123px; left: 0px; position: absolute; top: 0px; width: 184px; " />
+              </div>
             </div>
             <div style="height: 0px; line-height: 0px; " class="spacer"> </div>
           </div>
@@ -149,7 +153,7 @@ new NavBar('widget0', 'Scripts/Widgets/Navbar', 'Scripts/Widgets/SharedResources
         </div>
       </div>
     </div>
-  <script src="http://www.google-analytics.com/urchin.js" type="text/javascript"></script><script type="text/javascript">_uacct = "UA-4780107-5";urchinTracker();</script></body>
+  </body>
 </html>
 
 

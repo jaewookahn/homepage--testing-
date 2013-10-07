@@ -32,6 +32,83 @@
     line-height: 14px;
 }
 .paragraph_style_1 {
+    color: rgb(175, 22, 0);
+    font-family: 'Arial-BoldMT', 'Arial', sans-serif;
+    font-size: 12px;
+    font-stretch: normal;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: 700;
+    letter-spacing: 0;
+    line-height: 14px;
+    margin-bottom: 0px;
+    margin-left: 0px;
+    margin-right: 0px;
+    margin-top: 0px;
+    opacity: 1.00;
+    padding-bottom: 16px;
+    padding-top: 0px;
+    text-align: left;
+    text-decoration: none;
+    text-indent: 0px;
+    text-transform: none;
+}
+.paragraph_style_2 {
+    color: rgb(146, 146, 146);
+    font-family: 'Arial-BoldMT', 'Arial', sans-serif;
+    font-size: 12px;
+    font-stretch: normal;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: 700;
+    letter-spacing: 0;
+    line-height: 14px;
+    margin-bottom: 0px;
+    margin-left: 0px;
+    margin-right: 0px;
+    margin-top: 0px;
+    opacity: 1.00;
+    padding-bottom: 16px;
+    padding-top: 0px;
+    text-align: left;
+    text-decoration: none;
+    text-indent: 0px;
+    text-transform: none;
+}
+.style_2 {
+    color: rgb(95, 95, 95);
+    line-height: 14px;
+    opacity: 1.00;
+}
+.style_3 {
+    font-family: 'ArialMT', 'Arial', sans-serif;
+    font-size: 12px;
+    font-stretch: normal;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 14px;
+}
+.style_4 {
+    color: rgb(95, 95, 95);
+    font-family: 'Arial-BoldMT', 'Arial', sans-serif;
+    font-size: 12px;
+    font-stretch: normal;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 14px;
+    opacity: 1.00;
+}
+.style_SkipStrokeSkipFillSkipOpacity {
+}
+.style_SkipStroke {
+    background: transparent;
+    opacity: 1.00;
+}
+.style_SkipStroke_1 {
+    background: transparent;
+    opacity: 1.00;
+}
+.paragraph_style_3 {
     color: rgb(95, 95, 95);
     font-family: 'ArialMT', 'Arial', sans-serif;
     font-size: 24px;
@@ -57,16 +134,6 @@
     background: transparent;
     opacity: 1.00;
 }
-.style_SkipStrokeSkipFillSkipOpacity {
-}
-.style_SkipStroke {
-    background: transparent;
-    opacity: 1.00;
-}
-.style_SkipStroke_1 {
-    background: transparent;
-    opacity: 1.00;
-}
 .style_SkipStroke_3 {
     background: transparent;
     opacity: 1.00;
@@ -75,7 +142,7 @@
     background: transparent;
     opacity: 1.00;
 }
-.style_External_244_253 {
+.style_External_453_428 {
     position: relative;
 }
 .Body {
@@ -103,7 +170,7 @@
 .Normal {
     padding: 4px;
 }
-.Normal_External_244_253 {
+.Normal_External_453_428 {
     position: relative;
 }
 .Title {
