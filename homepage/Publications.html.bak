@@ -6,7 +6,7 @@
   <head>
     <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
     <meta name="Generator" content="iWeb 3.0.4" />
-    <meta name="iWeb-Build" content="local-build-20130904" />
+    <meta name="iWeb-Build" content="local-build-20131007" />
     <meta http-equiv="X-UA-Compatible" content="IE=EmulateIE7" />
     <meta name="viewport" content="width=700" />
     <title>Publications</title>
@@ -71,10 +71,10 @@ new NavBar('widget0', 'Scripts/Widgets/Navbar', 'Scripts/Widgets/SharedResources
                   <p class="paragraph_style_1"><br /></p>
                   <ol>
                     <li style="line-height: 14px; padding-left: 20px; text-indent: -20px; " class="full-width" value="1">
-                      <p style="text-indent: -20px; " class="paragraph_style_2"><span style="font-size: 12px; " class="구분점">1.</span><span style="width: 10px; " class="inline-block"></span><span class="style_1">Ahn, J.</span>, Plaisant, C., and Shneiderman B. <a class="class1" title="http://www.cs.umd.edu/localphp/hcil/tech-reports-search.php?number=2011-09" href="http://www.cs.umd.edu/localphp/hcil/tech-reports-search.php?number=2011-09">A Task Taxonomy of Network Evolution Analysis</a>. Under minor revisions by IEEE Transactions on Visualization and Computer Graphics (TVCG). <br /></p>
+                      <p style="text-indent: -20px; " class="paragraph_style_2"><span style="font-size: 12px; " class="구분점">1.</span><span style="width: 10px; " class="inline-block"></span><span class="style_1">Ahn, J.</span>, Plaisant, C., and Shneiderman B. <a class="class1" title="http://www.cs.umd.edu/localphp/hcil/tech-reports-search.php?number=2011-09" href="http://www.cs.umd.edu/localphp/hcil/tech-reports-search.php?number=2011-09">A Task Taxonomy of Network Evolution Analysis</a>. (in press) IEEE Transactions on Visualization and Computer Graphics (TVCG). <br /></p>
                     </li>
                     <li style="line-height: 14px; padding-left: 20px; text-indent: -20px; " class="full-width" value="2">
-                      <p style="text-indent: -20px; " class="paragraph_style_2"><span style="font-size: 12px; " class="구분점">2.</span><span style="width: 10px; " class="inline-block"></span><span class="style_1">Ahn, J.</span>, Brusilovsky, P. (in press) <a title="http://research.microsoft.com/en-us/um/people/ryenw/docs/hcir_ipm_specialissue_cfp.pdf" href="http://research.microsoft.com/en-us/um/people/ryenw/docs/hcir_ipm_specialissue_cfp.pdf">Adaptive Visualization for Exploratory Search</a>.  Information Processing and Management Special Topic on Human-Computer Information Retrieval.<br /></p>
+                      <p style="text-indent: -20px; " class="paragraph_style_2"><span style="font-size: 12px; " class="구분점">2.</span><span style="width: 10px; " class="inline-block"></span><span class="style_1">Ahn, J.</span>, and Brusilovsky, P. (2013) <a title="http://www.sciencedirect.com/science/article/pii/S0306457313000137" href="http://www.sciencedirect.com/science/article/pii/S0306457313000137">Adaptive Visualization for Exploratory Search</a>.  Information Processing and Management Special Topic on Human-Computer Information Retrieval. 49(5):1139-1164.<br /></p>
                     </li>
                     <li style="line-height: 14px; padding-left: 20px; text-indent: -20px; " class="full-width" value="3">
                       <p style="text-indent: -20px; " class="paragraph_style_2"><span style="font-size: 12px; " class="구분점">3.</span><span style="width: 10px; " class="inline-block"></span><span class="style_1">Ahn, J.</span>, Brusilovsky, P., Grady, J., and He, D. (2010) <a title="http://dx.doi.org/10.1016/j.ipm.2010.02.001" href="http://dx.doi.org/10.1016/j.ipm.2010.02.001">Semantic Annotation Based Exploratory Search for Information Analysts</a>. Information Processing and Management, Special Issue on Semantic Annotations in Information Retrieval. 46(4):383-402.<br /></p>
@@ -100,7 +100,7 @@ new NavBar('widget0', 'Scripts/Widgets/Navbar', 'Scripts/Widgets/SharedResources
                       <p style="text-indent: -20px; " class="paragraph_style_2"><span style="font-size: 12px; " class="구분점">8.</span><span style="width: 10px; " class="inline-block"></span>J. Lee, <span class="style_1">J. Ahn</span>, and H. Ryu. <a title="http://livepage.apple.com/" href="http://livepage.apple.com/">Retweeting Political Sentiments: Polarization and Homogeneity in Twitter from 2012 Presidential Election in South Korea</a>. in preparation. <br /></p>
                     </li>
                     <li style="line-height: 14px; padding-left: 20px; text-indent: -20px; " class="full-width" value="9">
-                      <p style="text-indent: -20px; " class="paragraph_style_2"><span style="font-size: 12px; " class="구분점">9.</span><span style="width: 10px; " class="inline-block"></span><span class="style_1">Ahn, J.</span>, Brusilovsky, P. <a title="http://" href="http://">Semantic Entity Visualization for Adaptive Information Access</a>. In preparation.<br /></p>
+                      <p style="text-indent: -20px; " class="paragraph_style_2"><span style="font-size: 12px; " class="구분점">9.</span><span style="width: 10px; " class="inline-block"></span><span class="style_1">Ahn, J.</span>, and Brusilovsky, P. <a title="http://" href="http://">Semantic Entity Visualization for Adaptive Information Access</a>. In preparation.<br /></p>
                     </li>
                   </ol>
                   <p class="paragraph_style"><br /></p>
